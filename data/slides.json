@@ -21,14 +21,14 @@
       "Tarikh: Selasa, 17 November 2026M / 07 Jamadilakhir 1448H.",
       "Masa majlis: 2.30 – 5.30 petang. Slot anda: 2.30 – 4.00 petang (tentatif).",
       "Tempat: Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok.",
-      "Sasaran: semua murid Tahun 6 (22 murid). Jumlah seluruh sekolah 176."
+      "Hadirin: murid Tahun 1 hingga 6 (176 murid). Murid Tahun 6 (22 murid) ialah yang berkhatam. Semua guru ialah tetamu kehormat."
      ]
     },
     {
      "h": "Skrip salam",
      "p": [
       "Assalamualaikum warahmatullahi wabarakatuh. Alhamdulillah, kita dipertemukan pada petang yang penuh berkat ini. Selawat dan salam ke atas Nabi Muhammad ﷺ.",
-      "Yang dihormati Guru Besar, Ustazah Mufidah binti Masroni, para guru, ibu bapa dan penjaga, tetamu yang dimuliakan, dan adik-adik murid Tahun 6 yang kami sayangi.",
+      "Yang dihormati Guru Besar, Ustazah Mufidah binti Masroni, para guru sekalian sebagai tetamu kehormat kami, ibu bapa dan penjaga, dan adik-adik murid KAFA, terutama murid Tahun 6 yang berkhatam hari ini.",
       "Nama saya Muhammad Aiman bin Mohamad Rafee. Petang ini saya memimpin sesi tadabbur sebelum Majlis Khatam Al-Quran Perdana."
      ]
     }
@@ -68,10 +68,11 @@
     {
      "h": "Senarai semak",
      "p": [
-      "Sahkan dengan pengacara siapa menyampaikan tazkirah dan doa khatam.",
+      "Sahkan bersama Ustaz Tholhah dan Ustaz Taqi: projektor, laptop, skrin putih portable dan laman slaid berfungsi sebelum 2.30.",
       "Cuba mikrofon dan sediakan air minuman.",
       "Pastikan murid duduk tersusun dan senyap, saf lelaki dan perempuan berasingan.",
-      "Semak hadis dengan ustaz atau ustazah."
+      "Semak hadis dengan ustaz atau ustazah.",
+      "Tazkirah dan doa khatam disampaikan oleh anda sendiri."
      ]
     }
    ]
@@ -139,7 +140,16 @@
     {
      "h": "Tindakan",
      "p": [
-      "Minta murid membuka mushaf di rehal masing-masing: Juzuk 30, Surah Az-Zalzalah."
+      "Murid Tahun 6: buka mushaf di rehal masing-masing, Juzuk 30, Surah Az-Zalzalah.",
+      "Murid Tahun 1 hingga 5 mendengar dan mengikut bacaan secara lisan."
+     ]
+    },
+    {
+     "h": "Penyesuaian untuk Tahun 1 hingga 5",
+     "p": [
+      "Guna ayat pendek dan contoh harian. Terangkan perkataan sukar seperti zarah dengan contoh benda kecil.",
+      "Libatkan semua peringkat: soalan mudah untuk murid kecil, soalan renungan untuk Tahun 6.",
+      "Bergerak sedikit dan pegang mikrofon dekat kerana khalayak sehingga 176 murid."
      ]
     }
    ]
@@ -396,9 +406,10 @@
    "sesi": "tazkirah",
    "butiran": [
     {
-     "h": "Ayat jemputan (jika orang lain menyampaikan)",
+     "h": "Pembukaan tazkirah",
      "p": [
-      "Sebelum kita bergerak ke majlis khatam, kita dengar pula tazkirah daripada [NAMA PENYAMPAI]. Dipersilakan."
+      "Anda sendiri yang menyampaikan tazkirah, jadi tiada ayat jemputan.",
+      "Sapa dua kumpulan: murid Tahun 6 yang berkhatam hari ini, dan adik-adik Tahun 1 hingga 5 yang hadir meraikan."
      ]
     },
     {
@@ -496,16 +507,16 @@
      "b": "Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok"
     },
     {
-     "h": "Peserta",
-     "b": "Semua murid Tahun 6 (22 murid)"
+     "h": "Hadirin",
+     "b": "Murid Tahun 1 – 6 (176). Tahun 6 (22 murid) berkhatam"
     },
     {
      "h": "Peringkat",
      "b": "Negeri Selangor, kali ke-11, 2026M / 1448H"
     },
     {
-     "h": "Pengacara",
-     "b": "Mengetuai aturcara majlis"
+     "h": "Tetamu kehormat",
+     "b": "Semua guru KAFA"
     }
    ],
    "butiran": [
@@ -534,7 +545,7 @@
     },
     {
      "h": "Doa khatam",
-     "b": "Sahkan siapa yang membacanya"
+     "b": "Anda yang membacanya"
     }
    ],
    "butiran": [
@@ -542,7 +553,31 @@
      "h": "Selepas serahan",
      "p": [
       "Duduk di tempat yang ditetapkan dan elakkan mengganggu aturcara.",
-      "Jika diminta membantu, tanya pengacara apa yang diperlukan."
+      "Bersedia membaca doa khatam apabila dijemput pengacara."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "quote",
+   "sesi": "khatam",
+   "masa": "-",
+   "text": "Doa khatam",
+   "label": "Doa khatam",
+   "sub": "Dibaca oleh anda selepas majlis khatam",
+   "butiran": [
+    {
+     "h": "Pengantar sebelum doa",
+     "p": [
+      "Marilah kita menadah tangan memohon kepada Allah di penghujung khatam Al-Quran ini. Kita doakan murid Tahun 6, ibu bapa, guru-guru dan seluruh hadirin.",
+      "Selepas pujian dan selawat, baca doa khatam yang anda biasa gunakan. Kemudian doakan ibu bapa, guru dan murid.",
+      "Tutup dengan Aamiin ya Rabbal alamin dan Al-Fatihah."
+     ]
+    },
+    {
+     "h": "Nota",
+     "p": [
+      "Teks doa khatam belum dimasukkan. Berikan teks yang anda guna jika mahu ia dipaparkan pada slaid."
      ]
     }
    ]
@@ -551,19 +586,26 @@
    "type": "list",
    "sesi": "khatam",
    "masa": "2.00",
-   "title": "Sahkan dengan pengacara",
-   "label": "Perkara untuk disahkan",
+   "title": "Pengesahan penyelaras",
+   "label": "Pengesahan",
    "items": [
-    "Siapa tetamu kehormat yang perlu disebut dalam salam?",
-    "Siapa menyampaikan tazkirah dan membaca doa khatam?",
-    "Adakah murid Tahun 1 hingga 5 turut hadir?",
-    "Adakah projektor atau TV disediakan?"
+    "Semua guru ialah tetamu kehormat.",
+    "Anda menyampaikan tazkirah dan membaca doa khatam.",
+    "Murid Tahun 1 hingga 5 turut hadir (176 murid).",
+    "Skrin putih portable dan projektor dipasang oleh Ustaz Tholhah dan Ustaz Taqi."
    ],
    "butiran": [
     {
-     "h": "Kenapa penting",
+     "h": "Masih perlu",
      "p": [
-      "Jawapan menentukan ayat salam, jumlah khalayak (22 hingga 176 murid) dan sama ada slaid web boleh dipaparkan."
+      "Aturcara terperinci Majlis Khatam daripada pengacara.",
+      "Teks doa khatam yang anda guna, jika mahu dipaparkan."
+     ]
+    },
+    {
+     "h": "Kesan",
+     "p": [
+      "Khalayak sehingga 176 murid: soalan lebih ringkas, guna mikrofon, beri peluang murid kecil menjawab."
      ]
     }
    ]
