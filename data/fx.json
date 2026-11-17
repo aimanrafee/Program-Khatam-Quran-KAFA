@@ -1,0 +1,38 @@
+{
+ "motion": {
+  "duration": "620ms",
+  "easing": "cubic-bezier(.22,1,.36,1)",
+  "stagger": "70ms"
+ },
+ "effects": {
+  "ripple": {
+   "selector": ".btn,.dot,.nav-item,.more-toggle,.grp-h",
+   "duration": 600
+  },
+  "tilt": {
+   "selector": ".card",
+   "max": 5
+  },
+  "magnetic": {
+   "selector": ".btn",
+   "strength": 0.2
+  }
+ },
+ "nav": {
+  "wheel": true,
+  "swipe": true,
+  "keys": true,
+  "wheelCooldown": 700,
+  "hash": true
+ },
+ "ui": {
+  "sidebarOpenMinWidth": 1000,
+  "butiranOpenByDefault": false,
+  "labels": {
+   "more": "Lagi",
+   "less": "Sembunyi",
+   "allOn": "Sembunyi semua butiran",
+   "allOff": "Papar semua butiran"
+  }
+ }
+}
