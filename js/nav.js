@@ -7,7 +7,12 @@ export function initNav({ slides, data, cfg, onChange }) {
   function go(i, silent) {
     i = Math.max(0, Math.min(n - 1, i));
     if (i === cur) return;
-    slides.forEach((s, k) => { s.classList.toggle('on', k === i); s.classList.toggle('past', k < i); if (k === i) s.scrollTop = 0; });
+    slides.forEach((s, k) => {
+      const on = k === i;
+      s.classList.toggle('on', on); s.classList.toggle('past', k < i);
+      s.inert = !on; s.setAttribute('aria-hidden', String(!on));
+      if (on) s.scrollTop = 0;
+    });
     dotEls.forEach((d, k) => { d.classList.toggle('on', k === i); d.setAttribute('aria-selected', k === i); });
     bar.style.setProperty('--p', n > 1 ? i / (n - 1) : 1);
     cur = i;
@@ -22,12 +27,17 @@ export function initNav({ slides, data, cfg, onChange }) {
   });
   if (cfg.keys) document.addEventListener('keydown', e => {
     const k = e.key;
+    /* Jangan kawal slaid semasa dialog dokumentasi terbuka. */
+    if (document.querySelector('dialog[open]')) return;
+    /* Biarkan Space mengaktifkan butang/kawalan yang sedang fokus. */
+    if (k === ' ' && e.target.closest('button,a,input,select,textarea,[contenteditable]')) return;
     if (['ArrowRight','ArrowDown','PageDown',' '].includes(k)) { e.preventDefault(); next(); }
     else if (['ArrowLeft','ArrowUp','PageUp'].includes(k)) { e.preventDefault(); prev(); }
     else if (k === 'Home') go(0); else if (k === 'End') go(n - 1);
     else if (k === 'f' || k === 'F') document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen?.();
   });
   if (cfg.wheel) addEventListener('wheel', e => {
+    if (document.querySelector('dialog[open]')) return;
     if (e.target.closest('.side')) return;
     const sl = e.target.closest('.slide');
     if (sl && sl.scrollHeight > sl.clientHeight + 4) return;
@@ -36,8 +46,16 @@ export function initNav({ slides, data, cfg, onChange }) {
   }, { passive: true });
   if (cfg.swipe) {
     let x0 = null;
-    addEventListener('pointerdown', e => { if (!e.target.closest('button,.side,.more-body')) x0 = e.clientX; });
-    addEventListener('pointerup', e => { if (x0 == null) return; const d = e.clientX - x0; x0 = null; if (Math.abs(d) > 50) d < 0 ? next() : prev(); });
+    addEventListener('pointerdown', e => {
+      if (e.pointerType === 'mouse') return;
+      if (!e.target.closest('button,.side,.more-body')) x0 = e.clientX;
+    });
+    addEventListener('pointercancel', () => { x0 = null; });
+    addEventListener('pointerup', e => {
+      if (x0 == null || e.pointerType === 'mouse') return;
+      const d = e.clientX - x0; x0 = null;
+      if (Math.abs(d) > 50) d < 0 ? next() : prev();
+    });
   }
   const start = cfg.hash ? (parseInt(location.hash.slice(1), 10) || 1) - 1 : 0;
   go(start, true);

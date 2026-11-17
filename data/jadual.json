@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "tajuk": "Aturcara Majlis Khatam Al-Quran Perdana",
+    "tarikh": "Selasa, 17 November 2026",
+    "tempat": "Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok",
+    "slot_pengendali": "2.30 – 3.20 petang",
+    "rehat": "4.00 petang"
+  },
+  "segmen": [
+    {
+      "id": "pembukaan",
+      "no": 1,
+      "masa": "2.30 – 2.40",
+      "tempoh": "10 min",
+      "tajuk": "Pembukaan dan Al-Fatihah",
+      "pemilik": "Anda",
+      "objektif": "Salam, mukadimah, doa pembuka dan Al-Fatihah."
+    },
+    {
+      "id": "tadabbur",
+      "no": 2,
+      "masa": "2.40 – 3.00",
+      "tempoh": "20 min",
+      "tajuk": "Tadabbur Az-Zalzalah",
+      "pemilik": "Anda",
+      "objektif": "Bacaan, makna, penghayatan dan soal jawab ayat 1–8."
+    },
+    {
+      "id": "tazkirah",
+      "no": 3,
+      "masa": "3.00 – 3.20",
+      "tempoh": "20 min",
+      "tajuk": "Tazkirah, ikrar dan doa",
+      "pemilik": "Anda",
+      "objektif": "Tazkirah, identiti murid soleh, keberkatan daripada Allah, ikrar dan doa penutup."
+    },
+    {
+      "id": "khatam",
+      "no": 4,
+      "masa": "3.20 – 3.50",
+      "tempoh": "30 min",
+      "tajuk": "Majlis Khatam",
+      "pemilik": "Pengacara majlis",
+      "objektif": "Bacaan Ad-Dhuha (93) hingga An-Nas (114), Al-Fatihah, Al-Baqarah 1–5, doa khatam dan maknanya."
+    },
+    {
+      "id": "ucapan",
+      "no": 5,
+      "masa": "3.50 – 4.00",
+      "tempoh": "10 min",
+      "tajuk": "Ucapan guru",
+      "pemilik": "Guru Besar",
+      "objektif": "Ucapan 10 minit. Anda boleh duduk dan mengikut aturcara."
+    },
+    {
+      "id": "rehat",
+      "no": 6,
+      "masa": "4.00",
+      "tempoh": "—",
+      "tajuk": "Rehat",
+      "pemilik": "—",
+      "objektif": "Majlis berehat. Ikut arahan pengacara selepas rehat."
+    }
+  ]
+}

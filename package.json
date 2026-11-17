@@ -1,2 +1,13 @@
-{ "name": "tadabbur-khatam", "version": "1.0.0", "private": true,
-  "scripts": { "serve": "npx serve .", "push": "node push.js" } }
+{
+  "name": "tadabbur-khatam",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve .",
+    "push": "node push.js",
+    "semak:data": "node scripts/semak-data.mjs",
+    "semak:ayat": "node scripts/semak-ayat.mjs",
+    "semak": "node scripts/semak-data.mjs && node scripts/semak-ayat.mjs",
+    "rehearsal": "node scripts/rehearsal.mjs"
+  }
+}

@@ -1,634 +1,1070 @@
 {
- "meta": {
-  "badgeLabel": "Dijadual"
- },
- "slides": [
-  {
-   "type": "hero",
-   "masa": "2.30",
-   "title": "Tadabbur Surah Az-Zalzalah",
-   "subtitle": "Majlis Khatam Al-Quran Perdana Murid Tahun 6, Peringkat Negeri Selangor Kali Ke-11",
-   "meta": [
-    "Selasa, 17 November 2026",
-    "2.30 – 4.00 petang",
-    "KAFA Integrasi As-Syariff, Telok Datok"
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Butiran majlis",
-     "p": [
-      "Tarikh: Selasa, 17 November 2026M / 07 Jamadilakhir 1448H.",
-      "Masa majlis: 2.30 – 5.30 petang. Slot anda: 2.30 – 4.00 petang (tentatif).",
-      "Tempat: Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok.",
-      "Hadirin: murid Tahun 1 hingga 6 (176 murid). Murid Tahun 6 (22 murid) ialah yang berkhatam. Semua guru ialah tetamu kehormat."
-     ]
-    },
-    {
-     "h": "Skrip salam",
-     "p": [
-      "Assalamualaikum warahmatullahi wabarakatuh. Alhamdulillah, kita dipertemukan pada petang yang penuh berkat ini. Selawat dan salam ke atas Nabi Muhammad ﷺ.",
-      "Yang dihormati Guru Besar, Ustazah Mufidah binti Masroni, para guru sekalian sebagai tetamu kehormat kami, ibu bapa dan penjaga, dan adik-adik murid KAFA, terutama murid Tahun 6 yang berkhatam hari ini.",
-      "Nama saya Muhammad Aiman bin Mohamad Rafee. Petang ini saya memimpin sesi tadabbur sebelum Majlis Khatam Al-Quran Perdana."
-     ]
-    }
-   ]
+  "meta": {
+    "badgeLabel": "Dijadual"
   },
-  {
-   "type": "cards",
-   "masa": "2.30",
-   "title": "Aturcara slot ini",
-   "items": [
+  "slides": [
     {
-     "h": "2.30 – 2.40",
-     "b": "Pembukaan dan Al-Fatihah"
+      "type": "hero",
+      "masa": "2.30",
+      "sesi": "tadabbur",
+      "label": "Pembukaan",
+      "title": "Tadabbur Surah Az-Zalzalah",
+      "subtitle": "Majlis Khatam Al-Quran Perdana Murid Tahun 6 · Peringkat Negeri Selangor Kali Ke-11",
+      "meta": [
+        "Selasa, 17 November 2026",
+        "2.30 – 4.00 petang · rehat 4.00",
+        "KAFA Integrasi As-Syariff, Telok Datok"
+      ],
+      "butiran": [
+        {
+          "h": "Butiran majlis",
+          "p": [
+            "Tarikh: Selasa, 17 November 2026M / 07 Jamadilakhir 1448H.",
+            "Masa majlis: 2.30 – 4.00 petang, kemudian rehat pada 4.00 petang.",
+            "Tempat: Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok.",
+            "Hadirin: murid Tahun 1 hingga 6 (176 murid). Murid Tahun 6 (22 murid) ialah yang berkhatam. Semua guru ialah tetamu kehormat."
+          ]
+        },
+        {
+          "h": "Pembahagian slot",
+          "p": [
+            "2.30 – 2.40: pembukaan dan Al-Fatihah.",
+            "2.40 – 3.00: tadabbur Az-Zalzalah.",
+            "3.00 – 3.20: tazkirah, ikrar dan doa penutup.",
+            "3.20 – 3.50: Majlis Khatam oleh pengacara; anda membaca doa khatam apabila dijemput.",
+            "3.50 – 4.00: ucapan guru. 4.00: rehat."
+          ]
+        },
+        {
+          "h": "Skrip salam",
+          "p": [
+            "Assalamualaikum warahmatullahi wabarakatuh. Alhamdulillah, kita dipertemukan pada petang yang penuh berkat ini. Selawat dan salam ke atas Nabi Muhammad ﷺ.",
+            "Yang dihormati Guru Besar, Ustazah Mufidah binti Masroni, para guru sekalian sebagai tetamu kehormat kami, ibu bapa dan penjaga, dan adik-adik murid KAFA, terutama murid Tahun 6 yang berkhatam hari ini.",
+            "Nama saya Muhammad Aiman bin Mohamad Rafee. Petang ini saya memimpin sesi tadabbur dan tazkirah sebelum Majlis Khatam Al-Quran Perdana."
+          ]
+        }
+      ]
     },
     {
-     "h": "2.40 – 3.20",
-     "b": "Tadabbur Az-Zalzalah"
+      "type": "jadual",
+      "masa": "2.30",
+      "sesi": "tadabbur",
+      "label": "Aturcara",
+      "title": "Aturcara petang ini",
+      "butiran": [
+        {
+          "h": "Kawalan masa",
+          "p": [
+            "Titik semak: 2.40 mula tadabbur, 3.00 mula tazkirah, 3.20 serah kepada pengacara, 3.50 ucapan guru, 4.00 rehat.",
+            "Jika lewat, kurangkan soal jawab dan contoh, bukan pembukaan dan penutup.",
+            "Jangan melebihi 3.20 kerana Majlis Khatam mesti bermula tepat."
+          ]
+        },
+        {
+          "h": "Senarai semak teknikal",
+          "p": [
+            "Sahkan projektor, laptop, skrin putih portable dan laman slaid berfungsi sebelum 2.30.",
+            "Cuba mikrofon dan sediakan air minuman.",
+            "Pastikan murid duduk tersusun dan senyap, saf lelaki dan perempuan berasingan.",
+            "Semak hadis dan doa dengan ustaz atau ustazah sebelum majlis.",
+            "Tazkirah dan doa khatam disampaikan oleh anda sendiri."
+          ]
+        }
+      ]
     },
     {
-     "h": "3.20 – 3.50",
-     "b": "Tazkirah"
+      "type": "quote",
+      "masa": "2.33",
+      "sesi": "tadabbur",
+      "label": "Khatam bukan penamat",
+      "text": "Khatam bukan penamat.",
+      "sub": "Sesudah khatam, apa seterusnya?",
+      "nota": "Tahniah kepada adik-adik. Itu pencapaian besar.",
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Hari ini hari bersejarah buat adik-adik. Bertahun-tahun belajar mengenal huruf, menyebut makhraj, membaca dengan tajwid, dan akhirnya sampai ke penghujung Al-Quran. Tahniah!",
+            "Tetapi sebelum kita meraikan khatam, mari kita bertanya: sesudah khatam, apa seterusnya? Itulah yang kita renungi petang ini melalui Surah Az-Zalzalah.",
+            "Khatam ialah tanda kita sudah sampai ke hujung mushaf. Ia bukan tanda kita sudah selesai dengan Al-Quran."
+          ]
+        }
+      ]
     },
     {
-     "h": "3.50 – 4.00",
-     "b": "Ikrar, doa dan serah kepada pengacara"
+      "type": "ayat",
+      "masa": "2.36",
+      "sesi": "tadabbur",
+      "label": "Doa pembuka",
+      "title": "Doa sebelum bermula",
+      "items": [
+        {
+          "n": "Taha 25–26",
+          "ar": "رَبِّ ٱشْرَحْ لِى صَدْرِى وَيَسِّرْ لِىٓ أَمْرِى",
+          "ms": "Wahai Tuhanku, lapangkanlah dadaku dan mudahkanlah urusanku."
+        }
+      ],
+      "dalil": [
+        "q-20-25"
+      ],
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Marilah kita memulakan majlis dengan bacaan Al-Fatihah, dan doa agar Allah membuka hati kita untuk memahami kalam-Nya. Pimpin bacaan Al-Fatihah.",
+            "Doa: Allahummaftah lana abwaba rahmatik, wanshur alaina khaza-ina ulumik, birahmatika ya arhamar rahimin. Aamiin."
+          ]
+        },
+        {
+          "h": "Adab sebelum mula",
+          "p": [
+            "Duduk dengan tenang, letak telefon dalam mod senyap, dan hadirkan niat kerana Allah.",
+            "Murid Tahun 6 buka mushaf di rehal masing-masing. Murid Tahun 1 hingga 5 mendengar dengan tertib."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "masa": "2.40",
+      "sesi": "tadabbur",
+      "label": "Apa itu tadabbur",
+      "title": "Apa itu tadabbur?",
+      "items": [
+        "Membaca dengan hati, bukan sekadar mulut.",
+        "Merenung makna dan bertanya: apa mesej untuk aku?",
+        "Surah ini 8 ayat, Juzuk 30, dan adik-adik sudah kenal."
+      ],
+      "nota": "Muhammad 47:24 — tidakkah mereka memikirkan isi Al-Quran?",
+      "dalil": [
+        "q-47-24"
+      ],
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Surah yang kita pilih ialah Surah Az-Zalzalah. Zalzalah bermaksud gegaran yang sangat kuat. Surah ini lapan ayat sahaja, tetapi mesejnya besar.",
+            "Ia terletak dalam Juzuk 30, juzuk yang paling banyak adik-adik baca dan hafal. Petang ini kita bukan sekadar membaca, tetapi memahami dan menghayati. Itulah maksud tadabbur.",
+            "Allah berfirman dalam Surah Muhammad ayat 24, yang bermaksud: tidakkah mereka mahu memikirkan isi Al-Quran, atau adakah hati mereka sudah terkunci? Mari kita buka hati dan telinga."
+          ]
+        },
+        {
+          "h": "Tindakan",
+          "p": [
+            "Murid Tahun 6: buka mushaf di rehal masing-masing, Juzuk 30, Surah Az-Zalzalah.",
+            "Murid Tahun 1 hingga 5 mendengar dan mengikut bacaan secara lisan."
+          ]
+        },
+        {
+          "h": "Penyesuaian untuk Tahun 1 hingga 5",
+          "p": [
+            "Guna ayat pendek dan contoh harian. Terangkan perkataan sukar seperti zarah dengan contoh benda kecil.",
+            "Libatkan semua peringkat: soalan mudah untuk murid kecil, soalan renungan untuk Tahun 6.",
+            "Bergerak sedikit dan pegang mikrofon dekat kerana khalayak sehingga 176 murid."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ayat",
+      "masa": "2.42",
+      "sesi": "tadabbur",
+      "label": "Ayat 1–4",
+      "title": "Bacaan ayat 1 – 4",
+      "items": [
+        {
+          "n": "1",
+          "ar": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+          "ms": "Apabila bumi digegarkan dengan gegaran yang dahsyat."
+        },
+        {
+          "n": "2",
+          "ar": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+          "ms": "Dan bumi mengeluarkan segala isi perutnya."
+        },
+        {
+          "n": "3",
+          "ar": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+          "ms": "Dan manusia bertanya: apakah yang berlaku kepada bumi?"
+        },
+        {
+          "n": "4",
+          "ar": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+          "ms": "Pada hari itu bumi menceritakan khabar beritanya."
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Cara bacaan",
+          "p": [
+            "Baca satu ayat, murid ikut selepas anda. Kemudian baca makna dalam bahasa Melayu.",
+            "Beri jeda supaya murid kecil dapat mengikut. Ulang ayat 1 sekali lagi bersama-sama."
+          ]
+        },
+        {
+          "h": "Ayat 1",
+          "p": [
+            "Bayangkan tempat paling kukuh, iaitu bumi. Pada Hari Kiamat Allah menggoncangnya dengan gegaran yang tidak pernah kita alami. Bangunan, harta dan jawatan boleh goyah dengan satu perintah. Yang kekal ialah amalan."
+          ]
+        },
+        {
+          "h": "Ayat 2 dan 3",
+          "p": [
+            "Bumi mengeluarkan segala beban yang tersimpan. Tiada yang tersembunyi di sisi Allah. Manusia terkejut dan bertanya apa yang berlaku. Jangan sampai kita sahaja yang terkejut nanti."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ayat",
+      "masa": "2.45",
+      "sesi": "tadabbur",
+      "label": "Ayat 5–8",
+      "title": "Bacaan ayat 5 – 8",
+      "items": [
+        {
+          "n": "5",
+          "ar": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+          "ms": "Kerana Tuhanmu telah memerintahkannya."
+        },
+        {
+          "n": "6",
+          "ar": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+          "ms": "Pada hari itu manusia keluar berpuak-puak untuk diperlihatkan amalan mereka."
+        },
+        {
+          "n": "7",
+          "ar": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+          "ms": "Maka sesiapa mengerjakan kebaikan seberat zarah, dia akan melihatnya."
+        },
+        {
+          "n": "8",
+          "ar": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+          "ms": "Dan sesiapa mengerjakan kejahatan seberat zarah, dia akan melihatnya."
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Cara bacaan",
+          "p": [
+            "Ulang cara yang sama: satu ayat, murid ikut, kemudian makna.",
+            "Ayat 7 dan 8 dibaca dua kali kerana ia menjadi inti tadabbur petang ini."
+          ]
+        },
+        {
+          "h": "Ayat 5 dan 6",
+          "p": [
+            "Bumi bercakap bukan dengan kuasa sendiri, tetapi dengan perintah Allah. Manusia keluar berpuak-puak untuk melihat amalan sendiri. Pada hari itu kita tidak dapat meminjam amalan orang lain."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "2.48",
+      "sesi": "tadabbur",
+      "label": "Renungan ayat 1–3",
+      "title": "Ayat 1 – 3: bumi bergoncang",
+      "items": [
+        {
+          "h": "Bumi pun bergoncang",
+          "b": "Bangunan, harta dan jawatan boleh goyah. Yang kekal ialah amalan."
+        },
+        {
+          "h": "Tiada yang tersembunyi",
+          "b": "Apa yang kita sangka sudah dilupakan, tidak hilang di sisi Allah."
+        },
+        {
+          "h": "Jangan terkejut kemudian",
+          "b": "Surah ini mengingatkan kita sebelum terlambat."
+        }
+      ],
+      "dalil": [
+        "t-saadi-99-1-3"
+      ],
+      "butiran": [
+        {
+          "h": "Soalan ringkas",
+          "p": [
+            "Apakah benda paling kukuh yang adik-adik tahu? Adakah ia akan kekal selama-lamanya?",
+            "Jemput seorang murid Tahun 1 atau 2 menjawab, kemudian seorang murid Tahun 5 atau 6."
+          ]
+        },
+        {
+          "h": "Rumusan",
+          "p": [
+            "Dunia ini sementara. Jangan terlalu terpaut kepadanya. Yang dibawa pulang ialah iman dan amal."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "masa": "2.51",
+      "sesi": "tadabbur",
+      "label": "Bumi menjadi saksi",
+      "text": "Bumi akan menjadi saksi.",
+      "sub": "Ayat 4 – 5 · dengan perintah Allah",
+      "nota": "Tanya murid: kalau bumi boleh bercerita, apa yang dia ceritakan tentang kita? Beri 3 saat senyap.",
+      "dalil": [
+        "q-99-4",
+        "q-99-5",
+        "t-ibn-kathir-99"
+      ],
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Ini ayat yang sangat menarik. Bumi akan bercakap! Bumi menceritakan apa yang manusia lakukan di atasnya, dengan izin dan perintah Allah.",
+            "Ibn Kathir menjelaskan bahawa bumi menjadi saksi dengan perintah Allah pada Hari Kiamat. Ia bukan sekadar kiasan dalam fikiran kita."
+          ]
+        },
+        {
+          "h": "Hadis sokongan",
+          "p": [
+            "Dalam Jami' at-Tirmidhi 3353, Rasulullah ﷺ menerangkan bahawa bumi menjadi saksi terhadap setiap hamba tentang apa yang dilakukan di atasnya.",
+            "Tarafnya: at-Tirmizi menilai hasan sahih, tetapi Darussalam dan al-Albani menilai sanadnya daif. Oleh itu, jadikan ia sokongan sahaja. Dalil utama tetap ayat 99:4-5."
+          ]
+        },
+        {
+          "h": "Soalan interaksi",
+          "p": [
+            "Adik-adik, kalau bumi yang adik pijak ini boleh bercerita, apakah yang dia ceritakan tentang adik? Tentang solat di atas sejadah, atau tentang bohong dan sikap kasar? Senyap 3–4 saat, jemput 2–3 murid."
+          ]
+        },
+        {
+          "h": "Renungan",
+          "p": [
+            "Setiap tempat menjadi saksi. Biasakan berbuat baik walaupun tiada siapa melihat, kerana Allah melihat."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "2.54",
+      "sesi": "tadabbur",
+      "label": "Sebesar zarah",
+      "title": "Ayat 7 – 8: sebesar zarah",
+      "items": [
+        {
+          "h": "Kebaikan kecil",
+          "b": "Senyum, memberi salam, mengutip sampah, membantu ibu."
+        },
+        {
+          "h": "Kejahatan kecil",
+          "b": "Mengejek nama kawan, berbohong sedikit, mengumpat."
+        },
+        {
+          "h": "Soalan",
+          "b": "Siapa boleh kongsi satu kebaikan kecil minggu ini?"
+        }
+      ],
+      "dalil": [
+        "q-99-7",
+        "q-99-8",
+        "h-muslim-2626",
+        "t-saadi-99"
+      ],
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Zarah ialah sesuatu yang sangat kecil. Tiada kebaikan yang terlalu kecil untuk dikira, dan tiada kejahatan yang terlalu kecil untuk diabaikan.",
+            "Rasulullah ﷺ bersabda: janganlah kamu memandang remeh sebarang kebaikan, walaupun sekadar bertemu saudaramu dengan wajah yang manis. Riwayat Muslim 2626."
+          ]
+        },
+        {
+          "h": "Contoh kebaikan",
+          "p": [
+            "Senyum dan memberi salam, mengutip sampah di kelas, membantu ibu mengangkat pinggan, membaca satu ayat dengan ikhlas, berterima kasih kepada guru."
+          ]
+        },
+        {
+          "h": "Contoh kejahatan",
+          "p": [
+            "Mengejek nama kawan, berbohong sedikit kepada ibu bapa, mengumpat, melengah-lengahkan solat."
+          ]
+        },
+        {
+          "h": "Soalan interaksi",
+          "p": [
+            "Siapa boleh kongsi satu kebaikan kecil yang sudah dilakukan minggu ini? Puji: MasyaAllah, semoga Allah terima."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "2.56",
+      "sesi": "tadabbur",
+      "label": "Soal jawab ikut umur",
+      "title": "Soal jawab mengikut umur",
+      "items": [
+        {
+          "h": "Tahun 1 – 2",
+          "b": "Siapa yang mencipta bumi? Apa yang berlaku kepada bumi pada Hari Kiamat? Sebut satu kebaikan kecil yang kamu boleh buat hari ini."
+        },
+        {
+          "h": "Tahun 3 – 4",
+          "b": "Mengapa bumi boleh menceritakan amalan kita? Apakah maksud seberat zarah? Beri satu contoh amanah di dalam kelas."
+        },
+        {
+          "h": "Tahun 5 – 6",
+          "b": "Jika semua amalan dilihat, bagaimana kita menjaga niat? Mengapa khatam belum cukup jika akhlak tidak berubah? Apa satu amalan yang akan kamu istiqamahkan selepas hari ini?"
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Cara mengendalikan",
+          "p": [
+            "Mulakan dengan soalan mudah untuk murid kecil supaya semua berani menjawab.",
+            "Naikkan tahap soalan untuk Tahun 6. Beri masa berfikir, jangan terus jawab sendiri.",
+            "Terima jawapan dengan hormat. Betulkan dengan lembut dan puji usaha, bukan hanya jawapan betul."
+          ]
+        },
+        {
+          "h": "Had masa",
+          "p": [
+            "Kawal kepada 3 hingga 4 soalan sahaja. Jika masa singkat, pilih satu soalan untuk setiap peringkat."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "masa": "2.58",
+      "sesi": "tadabbur",
+      "label": "Tiga pengajaran",
+      "title": "Tiga pengajaran",
+      "items": [
+        "Dunia ini sementara; yang kekal ialah iman dan amal.",
+        "Setiap amalan dicatat dan akan diperlihatkan.",
+        "Yang kecil pun dikira, sama ada kebaikan atau kejahatan."
+      ],
+      "butiran": [
+        {
+          "h": "Skrip rumusan",
+          "p": [
+            "Tiga pengajaran Surah Az-Zalzalah: pertama, dunia ini sementara; kedua, segala amalan dicatat dan diperlihatkan; ketiga, yang kecil pun dikira.",
+            "Minta murid mengulang tiga pengajaran bersama-sama."
+          ]
+        },
+        {
+          "h": "Jambatan ke tazkirah",
+          "p": [
+            "Jika amalan sekecil zarah pun dikira, maka khatam Al-Quran hari ini juga dikira. Persoalannya, apa yang kita buat selepas khatam?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.00",
+      "sesi": "tazkirah",
+      "label": "Tazkirah: khatam ialah permulaan",
+      "title": "Tazkirah: khatam ialah permulaan",
+      "items": [
+        {
+          "h": "Hidupkan Al-Quran",
+          "b": "Bukan hanya dibaca, tetapi diamalkan dalam akhlak."
+        },
+        {
+          "h": "Istiqamah",
+          "b": "Amalan yang berterusan, walaupun sedikit, paling disukai Allah."
+        },
+        {
+          "h": "Jaga adab",
+          "b": "Baca selepas solat, ulang hafazan, fahami makna, hormati mushaf."
+        },
+        {
+          "h": "Berterima kasih",
+          "b": "Doakan ibu bapa dan guru yang bersabar mengajar dari alif ba ta."
+        }
+      ],
+      "dalil": [
+        "h-muslim-746a",
+        "h-bukhari-6464"
+      ],
+      "butiran": [
+        {
+          "h": "Pembukaan tazkirah",
+          "p": [
+            "Anda sendiri yang menyampaikan tazkirah, jadi tiada ayat jemputan.",
+            "Sapa dua kumpulan: murid Tahun 6 yang berkhatam hari ini, dan adik-adik Tahun 1 hingga 5 yang hadir meraikan."
+          ]
+        },
+        {
+          "h": "Skrip tazkirah",
+          "p": [
+            "Hari ini adik-adik khatam Al-Quran. Tetapi khatam bukan penamat, khatam ialah permulaan.",
+            "Pertama, Al-Quran untuk dihidupkan. Sayyidatina Aisyah RA menggambarkan akhlak Rasulullah ﷺ sebagai Al-Quran. Maksudnya, Al-Quran bukan hanya di dalam mushaf, tetapi tercermin dalam cara kita bercakap, berjalan dan melayan orang.",
+            "Kedua, istiqamah. Amalan paling disukai Allah ialah yang berterusan walaupun sedikit. Satu muka surat sehari pun jadi, asalkan tidak berhenti.",
+            "Ketiga, adab: baca selepas solat, ulang hafazan, fahami makna, hormati mushaf.",
+            "Keempat, berterima kasih kepada ibu bapa dan guru, dan doakan mereka. Kebaikan sebesar zarah pun Allah tidak lupa.",
+            "Penutup: jadikan Al-Quran sahabat dan panduan hidup. Bila kita menjaga Al-Quran, Allah akan menjaga kita."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.04",
+      "sesi": "tazkirah",
+      "label": "Identiti murid soleh",
+      "title": "Identiti murid soleh",
+      "items": [
+        {
+          "h": "Khalifah",
+          "b": "Allah menjadikan manusia khalifah di bumi: menjaga agama, diri, ilmu dan alam."
+        },
+        {
+          "h": "Hamba Allah",
+          "b": "Tujuan hidup ialah beribadah kepada Allah, bukan mengejar pujian manusia."
+        },
+        {
+          "h": "Bertanggungjawab",
+          "b": "Setiap murid ialah pemimpin atas dirinya dan akan ditanya tentang amanahnya."
+        },
+        {
+          "h": "Berdisiplin",
+          "b": "Tepat masa, solat di awal waktu, tugasan siap tanpa disuruh."
+        },
+        {
+          "h": "Berakhlak dan beradab",
+          "b": "Senyum, salam, hormat guru, jaga lidah dan tangan."
+        },
+        {
+          "h": "Amanah",
+          "b": "Simpan rahsia, jaga barang, sampaikan pesanan dengan benar."
+        },
+        {
+          "h": "Jujur",
+          "b": "Bercakap benar walaupun susah; tidak menipu dalam ujian dan permainan."
+        },
+        {
+          "h": "Bijaksana",
+          "b": "Fikir sebelum bertindak; pilih kawan, kata dan masa dengan hikmah."
+        }
+      ],
+      "dalil": [
+        "q-2-30",
+        "q-51-56",
+        "h-bukhari-893",
+        "q-4-58"
+      ],
+      "butiran": [
+        {
+          "h": "Cara menyampaikan",
+          "p": [
+            "Sebut lapan identiti ini satu demi satu. Selepas setiap satu, beri satu contoh konkrit yang dekat dengan murid.",
+            "Tahun 1–2: tumpu kepada adab, salam, hormat dan kebersihan.",
+            "Tahun 3–4: tumpu kepada disiplin, tugasan dan jujur dalam permainan.",
+            "Tahun 5–6: tumpu kepada amanah kepimpinan, contoh kepada adik-adik dan menjaga masa."
+          ]
+        },
+        {
+          "h": "Amaran aqidah",
+          "p": [
+            "Khalifah dan hamba Allah bukan gelaran untuk berbangga. Kedudukannya diukur dengan takwa dan amal soleh, bukan dengan keturunan, harta atau kepandaian semata-mata.",
+            "Segala kemampuan untuk beramal datang daripada Allah. Jangan bergantung pada tangkal, azimat atau kuasa ghaib selain Allah."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tahap",
+      "masa": "3.08",
+      "sesi": "tazkirah",
+      "label": "Tahap umur Tahun 1–6",
+      "title": "Tahap umur: satu mesej, tiga cara",
+      "items": [
+        {
+          "h": "Tahun 1 – 2",
+          "umur": "7 – 8 tahun",
+          "b": "Khalifah kecil dan hamba Allah. Belajar kenal Allah, hormat ibu bapa dan guru, serta jaga adab di kelas.",
+          "fokus": [
+            "Kenal Allah sebagai Pencipta dan Pemberi rezeki.",
+            "Sebut dan hafal ayat pendek dengan betul.",
+            "Adab asas: salam, minta izin, jaga kebersihan."
+          ],
+          "amalan": [
+            "Baca Al-Fatihah sebelum belajar.",
+            "Angkat tangan sebelum bercakap.",
+            "Ucap terima kasih dan minta maaf."
+          ],
+          "dalil": "Hadis Bukhari 893 — setiap kamu pemimpin."
+        },
+        {
+          "h": "Tahun 3 – 4",
+          "umur": "9 – 10 tahun",
+          "b": "Murid yang bertanggungjawab dan berdisiplin. Mula memikul amanah kecil: solat, tugasan kelas, jaga lidah dan tangan.",
+          "fokus": [
+            "Solat lima waktu dan membaca Al-Quran setiap hari.",
+            "Amanah: siapkan tugasan tanpa disuruh.",
+            "Jujur dalam ujian, permainan dan percakapan."
+          ],
+          "amalan": [
+            "Catat amalan baik harian.",
+            "Jaga waktu solat dan waktu tidur.",
+            "Bercakap benar walaupun susah."
+          ],
+          "dalil": "Al-Quran 49:13 — yang paling mulia ialah yang paling bertakwa."
+        },
+        {
+          "h": "Tahun 5 – 6",
+          "umur": "11 – 12 tahun",
+          "b": "Remaja awal: amanah, jujur dan bijaksana. Bersedia menjadi contoh kepada adik-adik. Khatam bukan penghujung, tetapi tanggungjawab menghidupkan isi Al-Quran.",
+          "fokus": [
+            "Memahami makna ayat dan mengamalkannya.",
+            "Amanah kepimpinan: ketua kelas, saf dan aktiviti.",
+            "Bijaksana memilih kawan, kata dan masa."
+          ],
+          "amalan": [
+            "Jadi contoh dalam solat dan adab.",
+            "Bantu adik-adik membaca Al-Quran.",
+            "Semak amalan sendiri setiap malam."
+          ],
+          "dalil": "Al-Quran 33:21 dan 68:4 — contoh ikutan dan akhlak yang agung."
+        }
+      ],
+      "dalil": [
+        "q-49-13",
+        "h-bukhari-893"
+      ],
+      "butiran": [
+        {
+          "h": "Nota penyampaian",
+          "p": [
+            "Satu mesej yang sama untuk semua: menjadi khalifah dan hamba Allah yang bertanggungjawab, berdisiplin, berakhlak, amanah, jujur dan bijaksana.",
+            "Cara penyampaian berbeza mengikut umur. Murid kecil perlukan contoh konkrit dan ayat pendek. Murid besar perlukan sebab dan tanggungjawab.",
+            "Elakkan membandingkan murid antara satu sama lain. Bandingkan murid dengan dirinya semalam."
+          ]
+        },
+        {
+          "h": "Ayat rujukan dalam slaid",
+          "p": [
+            "Al-Quran 2:30 menegaskan manusia dijadikan khalifah di bumi.",
+            "Al-Quran 51:56 menegaskan tujuan penciptaan ialah beribadah kepada Allah.",
+            "Hadis Bukhari 893 menegaskan setiap orang ialah pemimpin dan akan ditanya tentang amanahnya."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.12",
+      "sesi": "tazkirah",
+      "label": "Keberkatan hanya daripada Allah",
+      "title": "Tidak ada keberkatan melainkan daripada Allah",
+      "items": [
+        {
+          "h": "Barakah milik Allah",
+          "b": "Iman dan takwa membuka pintu keberkatan dari langit dan bumi. Barakah bukan hasil tangkal atau nasib."
+        },
+        {
+          "h": "Taufik daripada Allah",
+          "b": "Keinginan dan kemampuan untuk berbuat baik datang daripada taufik Allah, bukan kekuatan diri."
+        },
+        {
+          "h": "Pertolongan daripada Allah",
+          "b": "Jika Allah menolong, tiada yang dapat mengalahkan. Jika Dia membiarkan, siapa yang dapat menolong?"
+        },
+        {
+          "h": "Ibadah dan permohonan",
+          "b": "Hanya kepada Allah kita menyembah dan hanya kepada-Nya kita memohon pertolongan."
+        },
+        {
+          "h": "Kejayaan dunia dan akhirat",
+          "b": "Kebaikan dunia dan akhirat diminta daripada Allah. Usaha kita hanyalah sebab; hasilnya milik Allah."
+        }
+      ],
+      "dalil": [
+        "q-7-96",
+        "q-11-88",
+        "q-3-160",
+        "q-1-5",
+        "q-2-201"
+      ],
+      "butiran": [
+        {
+          "h": "Huraian",
+          "p": [
+            "Adik-adik, kita berusaha belajar, membaca, menghafal dan berbuat baik. Tetapi jangan sekali-kali percaya bahawa kejayaan datang daripada usaha kita semata-mata.",
+            "Allah yang memberi kesihatan, masa, guru, ibu bapa, fikiran dan kemampuan. Dia yang membuka pintu keberkatan. Dia yang menolong dan memberi taufik.",
+            "Kerana itu, selepas berusaha, kita berdoa dan bertawakal. Kita tidak sombong apabila berjaya, dan tidak putus asa apabila gagal."
+          ]
+        },
+        {
+          "h": "Amaran aqidah",
+          "p": [
+            "Jangan percaya kepada tangkal, azimat, bomoh, ramalan nasib atau kuasa ghaib selain Allah. Semua itu tidak mendatangkan barakah dan boleh merosakkan akidah.",
+            "Barakah bukan benda yang boleh dibeli atau diwarisi. Ia datang daripada Allah kepada orang yang beriman, bertakwa dan ikhlas."
+          ]
+        },
+        {
+          "h": "Skrip ringkas",
+          "p": [
+            "Maka jangan kita bangga dengan kepandaian sendiri. Jangan kita rasa kejayaan ini milik kita sepenuhnya. Kita berusaha, tetapi Allah yang memberi kejayaan.",
+            "Marilah kita minta kepada Allah: Ya Allah, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "masa": "3.15",
+      "sesi": "tazkirah",
+      "label": "Ikrar kita",
+      "title": "Ikrar kita",
+      "items": [
+        "Saya akan terus membaca Al-Quran setiap hari.",
+        "Saya akan melakukan kebaikan walaupun sebesar zarah.",
+        "Saya akan menjauhi kejahatan walaupun sekecil zarah.",
+        "Saya akan menjaga amanah, jujur dan beradab.",
+        "Saya yakin kejayaan dunia dan akhirat hanya daripada Allah."
+      ],
+      "dalil": [
+        "q-6-162"
+      ],
+      "butiran": [
+        {
+          "h": "Skrip",
+          "p": [
+            "Sebelum saya tamatkan sesi ini, mari kita buat satu ikrar kecil. Adik-adik ikut selepas saya, dengan suara yang jelas.",
+            "Beri jeda selepas setiap baris supaya murid mengulang."
+          ]
+        },
+        {
+          "h": "Peringatan",
+          "p": [
+            "Ikrar ini bukan janji kosong. Ia peringatan supaya kita berusaha, dan apabila gagal, kita bertaubat dan kembali kepada Allah."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ayat",
+      "masa": "3.17",
+      "sesi": "tazkirah",
+      "label": "Doa penutup",
+      "title": "Doa penutup",
+      "items": [
+        {
+          "n": "Doa",
+          "ar": "اللَّهُمَّ ارْحَمْنَا بِالْقُرْآنِ، وَاجْعَلْهُ لَنَا إِمَامًا وَنُورًا وَهُدًى وَرَحْمَةً",
+          "ms": "Ya Allah, rahmatilah kami dengan Al-Quran. Jadikanlah ia pemimpin, cahaya, petunjuk dan rahmat bagi kami."
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Doa penutup",
+          "p": [
+            "Ya Allah, rahmatilah kami dengan Al-Quran. Jadikanlah ia pemimpin, cahaya, petunjuk dan rahmat bagi kami. Ingatkanlah kami apa yang kami lupa, ajarlah kami apa yang kami tidak tahu, dan kurniakanlah kami untuk membacanya sepanjang malam dan siang. Aamiin."
+          ]
+        },
+        {
+          "h": "Ucapan penutup",
+          "p": [
+            "Jazakumullahu khairan kepada semua yang sudi mendengar. Jika ada kekurangan dalam penyampaian saya, saya mohon maaf. Saya menjemput pengacara majlis untuk meneruskan Majlis Khatam Al-Quran Perdana Murid Tahun 6."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "masa": "3.19",
+      "sesi": "tazkirah",
+      "label": "Serahan kepada pengacara",
+      "text": "Saya serahkan majlis kepada pengacara.",
+      "sub": "3.20 petang · Majlis Khatam bermula",
+      "nota": "Jazakumullahu khairan. Serah tepat pada masanya.",
+      "butiran": [
+        {
+          "h": "Skrip serahan",
+          "p": [
+            "Dengan itu, sesi tadabbur dan tazkirah ditamatkan. Saya menjemput pengacara majlis untuk meneruskan aturcara utama kita. Wassalamualaikum warahmatullahi wabarakatuh."
+          ]
+        },
+        {
+          "h": "Peringatan",
+          "p": [
+            "Serah tepat 3.20 petang. Tidak boleh lewat kerana Majlis Khatam bermula 3.20 hingga 3.50.",
+            "Selepas serah, duduk di tempat yang ditetapkan dan bersedia membaca doa khatam apabila dijemput."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.20",
+      "sesi": "khatam",
+      "label": "Majlis Khatam 3.20–3.50",
+      "title": "Majlis Khatam · 3.20 – 3.50",
+      "items": [
+        {
+          "h": "Tempat",
+          "b": "Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok"
+        },
+        {
+          "h": "Hadirin",
+          "b": "Murid Tahun 1 – 6 (176). Tahun 6 (22 murid) berkhatam"
+        },
+        {
+          "h": "Peringkat",
+          "b": "Negeri Selangor, kali ke-11, 2026M / 1448H"
+        },
+        {
+          "h": "Tetamu kehormat",
+          "b": "Semua guru KAFA, ibu bapa dan penjaga"
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Catatan",
+          "p": [
+            "Aturcara terperinci Majlis Khatam diurus pengacara. Maklumat ini diambil daripada poster majlis; sahkan butiran lain dengan pengacara.",
+            "Ucapan guru pada 3.50 – 4.00, kemudian rehat pada 4.00."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "khatam",
+      "masa": "3.20",
+      "sesi": "khatam",
+      "label": "Urutan bacaan khatam",
+      "title": "Urutan bacaan khatam",
+      "butiran": [
+        {
+          "h": "Adab bacaan",
+          "p": [
+            "Baca dengan tartil dan makhraj yang betul; jangan berlumba sehingga makna hilang.",
+            "Bawa hati: fahami bahawa kita sedang membaca kalam Allah, bukan teks biasa.",
+            "Hormati mushaf: pegang dengan bersih, letak di tempat yang tinggi dan elok.",
+            "Selepas khatam, jangan berhenti. Tetapkan satu bahagian kecil untuk dibaca setiap hari."
+          ]
+        },
+        {
+          "h": "Nota amalan",
+          "p": [
+            "Urutan ini ialah amalan majlis khatam yang biasa di Malaysia. Ia bukan ibadah wajib dan bukan syarat sah khatam.",
+            "Yang dituntut ialah membaca dengan betul, memahami makna dan berdoa dengan ikhlas kepada Allah.",
+            "Sahkan urutan dan lafaz doa dengan guru atau ustaz sebelum majlis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "doa",
+      "masa": "3.20",
+      "sesi": "khatam",
+      "label": "Doa khatam dan makna",
+      "title": "Doa khatam dan maknanya",
+      "butiran": [
+        {
+          "h": "Makna doa",
+          "p": [
+            "Ya Allah, rahmatilah aku dengan Al-Quran. Jadikanlah ia bagiku imam, cahaya, petunjuk dan rahmat.",
+            "Ya Allah, ingatkanlah aku apa yang aku lupa daripadanya, ajarkanlah aku apa yang aku tidak tahu.",
+            "Kurniakanlah aku membaca dan melafazkannya sepanjang malam dan hujung siang, dan jadikanlah ia hujah bagiku, wahai Tuhan sekalian alam."
+          ]
+        },
+        {
+          "h": "Nota",
+          "p": [
+            "Doa ini masyhur dibaca selepas khatam. Ia dibaca sebagai doa, bukan sebagai hadis marfu' yang sabit daripada Nabi ﷺ.",
+            "Sahkan lafaz dengan guru atau ustaz sebelum majlis. Jika anda mempunyai lafaz doa khatam yang biasa digunakan di sekolah, gunakan lafaz itu."
+          ]
+        },
+        {
+          "h": "Selepas doa",
+          "p": [
+            "Akhiri dengan selawat ke atas Nabi ﷺ, doa untuk ibu bapa dan guru, serta bacaan Al-Fatihah.",
+            "Serahkan semula kepada pengacara mengikut aturcara."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.20",
+      "sesi": "khatam",
+      "label": "Peranan anda",
+      "title": "Peranan anda selepas serahan",
+      "items": [
+        {
+          "h": "Serah dengan lancar",
+          "b": "Pastikan dewan tenang dan murid bersedia"
+        },
+        {
+          "h": "Ikut arahan pengacara",
+          "b": "Duduk dan bantu jika diminta"
+        },
+        {
+          "h": "Doa khatam",
+          "b": "Anda yang membacanya apabila dijemput"
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Selepas serahan",
+          "p": [
+            "Duduk di tempat yang ditetapkan dan elakkan mengganggu aturcara.",
+            "Bersedia membaca doa khatam apabila dijemput pengacara.",
+            "Jika pengacara belum bersedia pada 3.20, mulakan satu bacaan Al-Fatihah beramai-ramai sementara menunggu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "masa": "3.50",
+      "sesi": "khatam",
+      "label": "Ucapan guru dan rehat",
+      "title": "Ucapan guru dan rehat",
+      "items": [
+        {
+          "h": "3.50 – 4.00",
+          "b": "Ucapan guru selama 10 minit. Anda boleh duduk dan mengikut aturcara."
+        },
+        {
+          "h": "4.00",
+          "b": "Rehat. Ikut arahan pengacara selepas rehat."
+        },
+        {
+          "h": "Selepas rehat",
+          "b": "Bersedia jika pengacara memanggil untuk doa penutup atau urusan lain."
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Peringatan",
+          "p": [
+            "Jangan tinggalkan dewan tanpa memberitahu pengacara.",
+            "Pastikan mikrofon dan slaid ditutup dengan kemas selepas majlis.",
+            "Ucap terima kasih kepada guru dan pengacara sebelum bersurai."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "rujukan",
+      "masa": "–",
+      "sesi": "khatam",
+      "label": "Rujukan dan dalil",
+      "title": "Rujukan dan dalil",
+      "kumpulan": [
+        {
+          "h": "Al-Quran",
+          "ids": [
+            "q-99-1",
+            "q-99-4",
+            "q-99-7",
+            "q-99-8",
+            "q-1-5",
+            "q-2-30",
+            "q-2-201",
+            "q-3-160",
+            "q-4-58",
+            "q-7-96",
+            "q-11-88",
+            "q-33-21",
+            "q-47-24",
+            "q-49-13",
+            "q-51-56",
+            "q-68-4"
+          ]
+        },
+        {
+          "h": "Hadis",
+          "ids": [
+            "h-bukhari-893",
+            "h-bukhari-6464",
+            "h-muslim-746a",
+            "h-muslim-2626",
+            "h-tirmidhi-2516",
+            "h-tirmidhi-3353"
+          ]
+        },
+        {
+          "h": "Tafsir dan nota",
+          "ids": [
+            "t-ibn-kathir-99",
+            "t-saadi-99-1-3",
+            "t-saadi-99",
+            "t-saadi-11-88",
+            "n-aqidah",
+            "n-doa-khatam"
+          ]
+        }
+      ],
+      "butiran": [
+        {
+          "h": "Kaedah",
+          "p": [
+            "Teks ayat dinukil daripada teks Uthmani (Hafs 'an 'Asim). Hadis disertakan kitab, nombor dan status periwayatan. Tafsir diringkaskan daripada sumber muktabar dan dipautkan.",
+            "Kandungan disusun mengikut manhaj Ahlus Sunnah wal Jamaah: Al-Quran, Sunnah yang sabit dan kefahaman para ulama."
+          ]
+        },
+        {
+          "h": "Semakan",
+          "p": [
+            "Sahkan lafaz, taraf hadis dan tafsir dengan ustaz atau ustazah bertauliah sebelum menyampaikan di majlis.",
+            "Hadis Tirmidhi 3353: at-Tirmizi menilai hasan sahih, tetapi Darussalam dan al-Albani menilai daif. Ia digunakan sebagai sokongan sahaja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "masa": "–",
+      "sesi": "khatam",
+      "label": "Pengesahan penyelaras",
+      "title": "Pengesahan penyelaras",
+      "items": [
+        "Semua guru ialah tetamu kehormat.",
+        "Anda menyampaikan tazkirah dan membaca doa khatam.",
+        "Murid Tahun 1 hingga 5 turut hadir (176 murid).",
+        "Bacaan khatam: Ad-Dhuha (93) hingga An-Nas (114), kemudian Al-Fatihah dan Al-Baqarah 1–5, diakhiri doa khatam.",
+        "Skrin putih portable dan projektor dipasang oleh Ustaz Tholhah dan Ustaz Taqi."
+      ],
+      "butiran": [
+        {
+          "h": "Masih perlu",
+          "p": [
+            "Aturcara terperinci Majlis Khatam daripada pengacara.",
+            "Lafaz doa khatam yang biasa digunakan di sekolah, jika berbeza."
+          ]
+        },
+        {
+          "h": "Kesan",
+          "p": [
+            "Khalayak sehingga 176 murid: soalan lebih ringkas, guna mikrofon, beri peluang murid kecil menjawab.",
+            "Masa tazkirah hanya 20 minit: pilih 3 pengajaran utama dan jangan tambah cerita panjang."
+          ]
+        }
+      ]
     }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
+  ],
+  "sessions": [
     {
-     "h": "Kawalan masa",
-     "p": [
-      "Titik semak: 2.40 ayat 1, 3.00 ayat 4–5, 3.20 tazkirah, 3.50 ikrar, 4.00 serah.",
-      "Jika lewat, kurangkan soal jawab, bukan pembukaan dan penutup."
-     ]
+      "id": "tadabbur",
+      "no": 1,
+      "title": "Tadabbur Az-Zalzalah",
+      "masa": "2.30 – 3.00"
     },
     {
-     "h": "Senarai semak",
-     "p": [
-      "Sahkan bersama Ustaz Tholhah dan Ustaz Taqi: projektor, laptop, skrin putih portable dan laman slaid berfungsi sebelum 2.30.",
-      "Cuba mikrofon dan sediakan air minuman.",
-      "Pastikan murid duduk tersusun dan senyap, saf lelaki dan perempuan berasingan.",
-      "Semak hadis dengan ustaz atau ustazah.",
-      "Tazkirah dan doa khatam disampaikan oleh anda sendiri."
-     ]
+      "id": "tazkirah",
+      "no": 2,
+      "title": "Tazkirah dan penutup",
+      "masa": "3.00 – 3.20"
+    },
+    {
+      "id": "khatam",
+      "no": 3,
+      "title": "Khatam, ucapan dan rehat",
+      "masa": "3.20 – 4.00"
     }
-   ]
-  },
-  {
-   "type": "quote",
-   "masa": "2.35",
-   "text": "Khatam bukan penamat.",
-   "sub": "Sesudah khatam, apa seterusnya?",
-   "nota": "Tahniah kepada adik-adik. Itu pencapaian besar.",
-   "sesi": "tadabbur",
-   "label": "Khatam bukan penamat",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Hari ini hari bersejarah buat adik-adik. Bertahun-tahun belajar mengenal huruf, menyebut makhraj, membaca dengan tajwid, dan akhirnya sampai ke penghujung Al-Quran. Tahniah!",
-      "Tetapi sebelum kita meraikan khatam, mari kita bertanya: sesudah khatam, apa seterusnya? Itulah yang kita renungi petang ini melalui Surah Az-Zalzalah."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ayat",
-   "masa": "2.38",
-   "title": "Doa sebelum bermula",
-   "items": [
-    {
-     "n": "Taha 25–26",
-     "ar": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
-     "ms": "Wahai Tuhanku, lapangkanlah dadaku dan mudahkanlah urusanku."
-    }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Marilah kita memulakan majlis dengan bacaan Al-Fatihah, dan doa agar Allah membuka hati kita untuk memahami kalam-Nya. (Pimpin bacaan Al-Fatihah.)",
-      "Doa: Allahummaftah lana abwaba rahmatik, wanshur alaina khaza-ina ulumik, birahmatika ya arhamar rahimin. Aamiin."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "list",
-   "masa": "2.40",
-   "title": "Apa itu tadabbur?",
-   "items": [
-    "Membaca dengan hati, bukan sekadar mulut.",
-    "Merenung makna dan bertanya: apa mesej untuk aku?",
-    "Surah ini 8 ayat, Juzuk 30, dan adik-adik sudah kenal."
-   ],
-   "nota": "Muhammad 24: tidakkah mereka memikirkan isi Al-Quran?",
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Surah yang kita pilih ialah Surah Az-Zalzalah. Zalzalah bermaksud gegaran yang sangat kuat. Surah ini lapan ayat sahaja, tetapi mesejnya besar.",
-      "Ia terletak dalam Juzuk 30, juzuk yang paling banyak adik-adik baca dan hafal. Petang ini kita bukan sekadar membaca, tetapi memahami dan menghayati. Itulah maksud tadabbur.",
-      "Allah berfirman dalam Surah Muhammad ayat 24, yang bermaksud: tidakkah mereka mahu memikirkan isi Al-Quran, atau adakah hati mereka sudah terkunci? Mari kita buka hati dan telinga."
-     ]
-    },
-    {
-     "h": "Tindakan",
-     "p": [
-      "Murid Tahun 6: buka mushaf di rehal masing-masing, Juzuk 30, Surah Az-Zalzalah.",
-      "Murid Tahun 1 hingga 5 mendengar dan mengikut bacaan secara lisan."
-     ]
-    },
-    {
-     "h": "Penyesuaian untuk Tahun 1 hingga 5",
-     "p": [
-      "Guna ayat pendek dan contoh harian. Terangkan perkataan sukar seperti zarah dengan contoh benda kecil.",
-      "Libatkan semua peringkat: soalan mudah untuk murid kecil, soalan renungan untuk Tahun 6.",
-      "Bergerak sedikit dan pegang mikrofon dekat kerana khalayak sehingga 176 murid."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ayat",
-   "masa": "2.45",
-   "title": "Bacaan ayat 1 – 4",
-   "items": [
-    {
-     "n": "1",
-     "ar": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
-     "ms": "Apabila bumi digegarkan dengan gegaran yang dahsyat."
-    },
-    {
-     "n": "2",
-     "ar": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
-     "ms": "Dan bumi mengeluarkan segala isi perutnya."
-    },
-    {
-     "n": "3",
-     "ar": "وَقَالَ الْإِنسَانُ مَا لَهَا",
-     "ms": "Dan manusia bertanya: apa yang berlaku kepada bumi?"
-    },
-    {
-     "n": "4",
-     "ar": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
-     "ms": "Pada hari itu bumi menceritakan khabar beritanya."
-    }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Cara bacaan",
-     "p": [
-      "Baca satu ayat, murid ikut selepas anda. Kemudian baca makna dalam bahasa Melayu."
-     ]
-    },
-    {
-     "h": "Ayat 1",
-     "p": [
-      "Bayangkan tempat paling kukuh, iaitu bumi. Pada Hari Kiamat Allah menggoncangnya dengan gegaran yang tidak pernah kita alami. Bangunan, harta dan jawatan boleh goyah dengan satu perintah. Yang kekal ialah amalan."
-     ]
-    },
-    {
-     "h": "Ayat 2 dan 3",
-     "p": [
-      "Bumi mengeluarkan segala beban yang tersimpan. Tiada yang tersembunyi di sisi Allah. Manusia terkejut dan bertanya apa yang berlaku. Jangan sampai kita sahaja yang terkejut nanti."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ayat",
-   "masa": "2.50",
-   "title": "Bacaan ayat 5 – 8",
-   "items": [
-    {
-     "n": "5",
-     "ar": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
-     "ms": "Kerana Tuhanmu telah memerintahkannya."
-    },
-    {
-     "n": "6",
-     "ar": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
-     "ms": "Manusia keluar berkumpulan-kumpulan untuk diperlihatkan amalan mereka."
-    },
-    {
-     "n": "7",
-     "ar": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
-     "ms": "Sesiapa membuat kebaikan seberat zarah, dia akan melihatnya."
-    },
-    {
-     "n": "8",
-     "ar": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
-     "ms": "Sesiapa membuat kejahatan seberat zarah, dia akan melihatnya."
-    }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Cara bacaan",
-     "p": [
-      "Ulang cara yang sama: satu ayat, murid ikut, kemudian makna."
-     ]
-    },
-    {
-     "h": "Ayat 6",
-     "p": [
-      "Manusia keluar berkumpulan-kumpulan untuk diperlihatkan amalan mereka sendiri. Pada hari itu kita tidak dapat meminjam amalan orang lain. Maka mulakan sekarang."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "masa": "2.58",
-   "title": "Ayat 1 – 3: renungan",
-   "items": [
-    {
-     "h": "Bumi pun bergoncang",
-     "b": "Bangunan, harta dan jawatan boleh goyah. Yang kekal ialah amalan."
-    },
-    {
-     "h": "Tiada yang tersembunyi",
-     "b": "Apa yang kita sangka sudah dilupakan, tidak hilang di sisi Allah."
-    },
-    {
-     "h": "Jangan terkejut kemudian",
-     "b": "Surah ini mengingatkan kita sebelum terlambat."
-    }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Soalan ringkas",
-     "p": [
-      "Apakah benda paling kukuh yang adik-adik tahu? Adakah ia akan kekal selama-lamanya?"
-     ]
-    },
-    {
-     "h": "Rumusan",
-     "p": [
-      "Dunia ini sementara. Jangan terlalu terpaut kepadanya."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "quote",
-   "masa": "3.02",
-   "text": "Bumi akan menjadi saksi.",
-   "sub": "Ayat 4 – 5, dengan perintah Allah",
-   "nota": "Tanya murid: kalau bumi boleh bercerita, apa yang dia ceritakan tentang kita? Beri 3 saat senyap.",
-   "sesi": "tadabbur",
-   "label": "Bumi menjadi saksi",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Ini ayat yang sangat menarik. Bumi akan bercakap! Bumi menceritakan apa yang manusia lakukan di atasnya, dengan izin dan perintah Allah.",
-      "Menurut satu riwayat at-Tirmizi, Rasulullah ﷺ menerangkan bahawa bumi menjadi saksi terhadap setiap hamba, lelaki dan perempuan, tentang apa yang mereka lakukan di atasnya."
-     ]
-    },
-    {
-     "h": "Soalan interaksi",
-     "p": [
-      "Adik-adik, kalau bumi yang adik pijak ini boleh bercerita, apakah yang dia ceritakan tentang adik? Tentang solat di atas sejadah, atau tentang bohong dan sikap kasar? (Senyap 3–4 saat, jemput 2–3 murid.)"
-     ]
-    },
-    {
-     "h": "Renungan",
-     "p": [
-      "Setiap tempat menjadi saksi. Biasakan berbuat baik walaupun tiada siapa melihat, kerana Allah melihat."
-     ]
-    },
-    {
-     "h": "Semakan",
-     "p": [
-      "Sahkan lafaz dan taraf hadis dengan ustaz atau ustazah sebelum menyampaikan."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "masa": "3.10",
-   "title": "Ayat 7 – 8: sebesar zarah",
-   "items": [
-    {
-     "h": "Kebaikan kecil",
-     "b": "Senyum, memberi salam, mengutip sampah, membantu ibu."
-    },
-    {
-     "h": "Kejahatan kecil",
-     "b": "Mengejek nama kawan, berbohong sedikit, mengumpat."
-    },
-    {
-     "h": "Soalan",
-     "b": "Siapa boleh kongsi satu kebaikan kecil minggu ini?"
-    }
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Zarah ialah sesuatu yang sangat kecil. Tiada kebaikan yang terlalu kecil untuk dikira, dan tiada kejahatan yang terlalu kecil untuk diabaikan.",
-      "Rasulullah ﷺ bersabda: janganlah kamu memandang remeh sebarang kebaikan, walaupun sekadar bertemu saudaramu dengan wajah yang manis. (Riwayat Muslim)"
-     ]
-    },
-    {
-     "h": "Contoh kebaikan",
-     "p": [
-      "Senyum dan memberi salam, mengutip sampah di kelas, membantu ibu mengangkat pinggan, membaca satu ayat dengan ikhlas, berterima kasih kepada guru."
-     ]
-    },
-    {
-     "h": "Contoh kejahatan",
-     "p": [
-      "Mengejek nama kawan, berbohong sedikit kepada ibu bapa, mengumpat, melengah-lengahkan solat."
-     ]
-    },
-    {
-     "h": "Soalan interaksi",
-     "p": [
-      "Siapa boleh kongsi satu kebaikan kecil yang sudah dilakukan minggu ini? (Puji: MasyaAllah, semoga Allah terima.)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "list",
-   "masa": "3.15",
-   "title": "Tiga pengajaran",
-   "items": [
-    "Dunia ini sementara.",
-    "Setiap amalan dicatat dan akan diperlihatkan.",
-    "Yang kecil pun dikira."
-   ],
-   "sesi": "tadabbur",
-   "butiran": [
-    {
-     "h": "Skrip rumusan",
-     "p": [
-      "Tiga pengajaran Surah Az-Zalzalah: pertama, dunia ini sementara; kedua, segala amalan dicatat dan diperlihatkan; ketiga, yang kecil pun dikira.",
-      "Minta murid mengulang tiga pengajaran bersama-sama."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "masa": "3.20",
-   "title": "Tazkirah: selepas khatam, bermulalah perjalanan",
-   "items": [
-    {
-     "h": "Hidupkan Al-Quran",
-     "b": "Bukan hanya dibaca, tetapi diamalkan dalam akhlak."
-    },
-    {
-     "h": "Istiqamah",
-     "b": "Amalan yang berterusan, walaupun sedikit, paling disukai Allah."
-    },
-    {
-     "h": "Jaga adab",
-     "b": "Baca selepas solat, ulang hafazan, fahami makna, hormati mushaf."
-    },
-    {
-     "h": "Berterima kasih",
-     "b": "Doakan ibu bapa dan guru yang bersabar mengajar dari alif ba ta."
-    }
-   ],
-   "sesi": "tazkirah",
-   "butiran": [
-    {
-     "h": "Pembukaan tazkirah",
-     "p": [
-      "Anda sendiri yang menyampaikan tazkirah, jadi tiada ayat jemputan.",
-      "Sapa dua kumpulan: murid Tahun 6 yang berkhatam hari ini, dan adik-adik Tahun 1 hingga 5 yang hadir meraikan."
-     ]
-    },
-    {
-     "h": "Skrip tazkirah",
-     "p": [
-      "Hari ini adik-adik khatam Al-Quran. Tetapi khatam bukan penamat, khatam ialah permulaan.",
-      "Pertama, Al-Quran untuk dihidupkan. Sayyidatina Aisyah RA menggambarkan akhlak Rasulullah ﷺ sebagai Al-Quran.",
-      "Kedua, istiqamah. Amalan paling disukai Allah ialah yang berterusan walaupun sedikit (Bukhari dan Muslim). Satu muka surat sehari pun jadi.",
-      "Ketiga, adab: baca selepas solat, ulang hafazan, fahami makna, hormati mushaf.",
-      "Keempat, berterima kasih kepada ibu bapa dan guru, dan doakan mereka. Kebaikan sebesar zarah pun Allah tidak lupa.",
-      "Penutup: jadikan Al-Quran sahabat dan panduan hidup. Bila kita menjaga Al-Quran, Al-Quran akan menjaga kita."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "list",
-   "masa": "3.50",
-   "title": "Ikrar kita",
-   "items": [
-    "Saya akan terus membaca Al-Quran setiap hari.",
-    "Saya akan melakukan kebaikan walaupun sebesar zarah.",
-    "Saya akan menjauhi kejahatan walaupun sekecil zarah.",
-    "Kerana Allah sentiasa melihat dan mengira."
-   ],
-   "sesi": "tazkirah",
-   "butiran": [
-    {
-     "h": "Skrip",
-     "p": [
-      "Sebelum saya tamatkan sesi ini, mari kita buat satu ikrar kecil. Adik-adik ikut selepas saya, dengan suara yang jelas.",
-      "Beri jeda selepas setiap baris supaya murid mengulang."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "ayat",
-   "masa": "3.55",
-   "title": "Doa penutup",
-   "items": [
-    {
-     "n": "Doa",
-     "ar": "اللهم ارحمنا بالقرآن، واجعله لنا إماماً ونوراً وهدىً ورحمة",
-     "ms": "Ya Allah, rahmatilah kami dengan Al-Quran. Jadikanlah ia pemimpin, cahaya, petunjuk dan rahmat bagi kami."
-    }
-   ],
-   "sesi": "tazkirah",
-   "butiran": [
-    {
-     "h": "Doa penutup",
-     "p": [
-      "Ya Allah, rahmatilah kami dengan Al-Quran. Jadikanlah ia pemimpin, cahaya, petunjuk dan rahmat bagi kami. Ingatkanlah kami apa yang kami lupa, ajarlah kami apa yang kami tidak tahu, dan kurniakanlah kami untuk membacanya sepanjang malam dan siang. Aamiin."
-     ]
-    },
-    {
-     "h": "Ucapan penutup",
-     "p": [
-      "Jazakumullahu khairan kepada semua yang sudi mendengar. Jika ada kekurangan dalam penyampaian saya, saya mohon maaf. Saya menjemput pengacara majlis untuk meneruskan Majlis Khatam Al-Quran Perdana Murid Tahun 6."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "quote",
-   "masa": "4.00",
-   "text": "Majlis Khatam bermula.",
-   "sub": "Serah kepada pengacara majlis",
-   "nota": "Jazakumullahu khairan.",
-   "sesi": "khatam",
-   "label": "Serahan kepada pengacara",
-   "butiran": [
-    {
-     "h": "Skrip serahan",
-     "p": [
-      "Dengan itu, sesi tadabbur dan tazkirah ditamatkan. Saya menjemput pengacara majlis untuk meneruskan aturcara utama kita. Wassalamualaikum warahmatullahi wabarakatuh."
-     ]
-    },
-    {
-     "h": "Peringatan",
-     "p": [
-      "Serah tepat 4.00 petang. Tidak boleh lewat kerana majlis khatam menyusul."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "sesi": "khatam",
-   "masa": "4.00",
-   "title": "Majlis Khatam: 4.00 – 5.30 petang",
-   "items": [
-    {
-     "h": "Tempat",
-     "b": "Dewan Sekolah, KAFA Integrasi As-Syariff, Telok Datok"
-    },
-    {
-     "h": "Hadirin",
-     "b": "Murid Tahun 1 – 6 (176). Tahun 6 (22 murid) berkhatam"
-    },
-    {
-     "h": "Peringkat",
-     "b": "Negeri Selangor, kali ke-11, 2026M / 1448H"
-    },
-    {
-     "h": "Tetamu kehormat",
-     "b": "Semua guru KAFA"
-    }
-   ],
-   "butiran": [
-    {
-     "h": "Catatan",
-     "p": [
-      "Aturcara terperinci Majlis Khatam diurus pengacara. Maklumat ini diambil daripada poster majlis; sahkan butiran lain dengan pengacara."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "cards",
-   "sesi": "khatam",
-   "masa": "4.00",
-   "title": "Peranan anda semasa majlis",
-   "label": "Peranan anda",
-   "items": [
-    {
-     "h": "Serah dengan lancar",
-     "b": "Pastikan dewan tenang dan murid bersedia"
-    },
-    {
-     "h": "Ikut arahan pengacara",
-     "b": "Duduk dan bantu jika diminta"
-    },
-    {
-     "h": "Doa khatam",
-     "b": "Anda yang membacanya"
-    }
-   ],
-   "butiran": [
-    {
-     "h": "Selepas serahan",
-     "p": [
-      "Duduk di tempat yang ditetapkan dan elakkan mengganggu aturcara.",
-      "Bersedia membaca doa khatam apabila dijemput pengacara."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "quote",
-   "sesi": "khatam",
-   "masa": "-",
-   "text": "Doa khatam",
-   "label": "Doa khatam",
-   "sub": "Dibaca oleh anda selepas majlis khatam",
-   "butiran": [
-    {
-     "h": "Pengantar sebelum doa",
-     "p": [
-      "Marilah kita menadah tangan memohon kepada Allah di penghujung khatam Al-Quran ini. Kita doakan murid Tahun 6, ibu bapa, guru-guru dan seluruh hadirin.",
-      "Selepas pujian dan selawat, baca doa khatam yang anda biasa gunakan. Kemudian doakan ibu bapa, guru dan murid.",
-      "Tutup dengan Aamiin ya Rabbal alamin dan Al-Fatihah."
-     ]
-    },
-    {
-     "h": "Nota",
-     "p": [
-      "Teks doa khatam belum dimasukkan. Berikan teks yang anda guna jika mahu ia dipaparkan pada slaid."
-     ]
-    }
-   ]
-  },
-  {
-   "type": "list",
-   "sesi": "khatam",
-   "masa": "2.00",
-   "title": "Pengesahan penyelaras",
-   "label": "Pengesahan",
-   "items": [
-    "Semua guru ialah tetamu kehormat.",
-    "Anda menyampaikan tazkirah dan membaca doa khatam.",
-    "Murid Tahun 1 hingga 5 turut hadir (176 murid).",
-    "Skrin putih portable dan projektor dipasang oleh Ustaz Tholhah dan Ustaz Taqi."
-   ],
-   "butiran": [
-    {
-     "h": "Masih perlu",
-     "p": [
-      "Aturcara terperinci Majlis Khatam daripada pengacara.",
-      "Teks doa khatam yang anda guna, jika mahu dipaparkan."
-     ]
-    },
-    {
-     "h": "Kesan",
-     "p": [
-      "Khalayak sehingga 176 murid: soalan lebih ringkas, guna mikrofon, beri peluang murid kecil menjawab."
-     ]
-    }
-   ]
-  }
- ],
- "sessions": [
-  {
-   "id": "tadabbur",
-   "no": 1,
-   "title": "Tadabbur Surah Az-Zalzalah",
-   "masa": "2.30 – 3.20"
-  },
-  {
-   "id": "tazkirah",
-   "no": 2,
-   "title": "Tazkirah dan penutup",
-   "masa": "3.20 – 4.00"
-  },
-  {
-   "id": "khatam",
-   "no": 3,
-   "title": "Majlis Khatam",
-   "masa": "4.00 – 5.30"
-  }
- ]
+  ]
 }

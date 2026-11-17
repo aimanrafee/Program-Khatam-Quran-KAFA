@@ -1,0 +1,483 @@
+{
+ "meta": {
+  "tajuk": "Pangkalan dalil dan rujukan",
+  "tarikh_semakan": "17 November 2026",
+  "edisi_quran": "ar-uthmani-hafs",
+  "kaedah": "Teks ayat dinukil daripada teks Uthmani (Hafs 'an 'Asim). Hadis disertakan kitab, nombor dan status periwayatan. Tafsir diringkaskan daripada sumber muktabar dan dipautkan. Kandungan disusun mengikut manhaj Ahlus Sunnah wal Jamaah: merujuk Al-Quran, Sunnah yang sabit, dan kefahaman para ulama.",
+  "amaran": "Dalil ini untuk rujukan penyampaian. Sahkan lafaz, taraf hadis dan tafsir dengan ustaz atau ustazah bertauliah sebelum menyampaikan di majlis.",
+  "sumber": [
+   "Al-Quran al-Karim, teks Uthmani (Hafs 'an 'Asim) melalui quran.ai",
+   "Sahih al-Bukhari dan Sahih Muslim melalui sunnah.com",
+   "Jami' at-Tirmidhi melalui sunnah.com",
+   "Tafsir Ibn Kathir dan Taysir al-Karim ar-Rahman (as-Sa'di) melalui quran.com"
+  ]
+ },
+ "dalil": [
+  {
+   "id": "q-99-1",
+   "jenis": "ayat",
+   "tajuk": "Gegaran bumi yang dahsyat",
+   "arab": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+   "ms": "Apabila bumi digegarkan dengan gegaran yang dahsyat.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:1",
+   "rujuk": "99:1",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/1"
+  },
+  {
+   "id": "q-99-2",
+   "jenis": "ayat",
+   "tajuk": "Bumi mengeluarkan isinya",
+   "arab": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+   "ms": "Dan bumi mengeluarkan segala isi perutnya.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:2",
+   "rujuk": "99:2",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/2"
+  },
+  {
+   "id": "q-99-3",
+   "jenis": "ayat",
+   "tajuk": "Manusia tertanya-tanya",
+   "arab": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+   "ms": "Dan manusia bertanya: apakah yang berlaku kepada bumi?",
+   "sumber": "Al-Quran, Az-Zalzalah 99:3",
+   "rujuk": "99:3",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/3"
+  },
+  {
+   "id": "q-99-4",
+   "jenis": "ayat",
+   "tajuk": "Bumi menceritakan khabarnya",
+   "arab": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+   "ms": "Pada hari itu bumi menceritakan khabar beritanya.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:4",
+   "rujuk": "99:4",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/4",
+   "tafsir": [
+    {
+     "nama": "Ibn Kathir",
+     "ringkas": "Bumi menjadi saksi dengan izin dan perintah Allah terhadap apa yang dilakukan manusia di atasnya. Ia berlaku pada Hari Kiamat, bukan sekadar kiasan.",
+     "pautan": "https://quran.com/99:1/tafsirs/169"
+    }
+   ]
+  },
+  {
+   "id": "q-99-5",
+   "jenis": "ayat",
+   "tajuk": "Dengan perintah Allah",
+   "arab": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+   "ms": "Kerana Tuhanmu telah memerintahkannya.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:5",
+   "rujuk": "99:5",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/5"
+  },
+  {
+   "id": "q-99-6",
+   "jenis": "ayat",
+   "tajuk": "Manusia keluar berpuak-puak",
+   "arab": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+   "ms": "Pada hari itu manusia keluar berpuak-puak untuk diperlihatkan amalan mereka.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:6",
+   "rujuk": "99:6",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/6"
+  },
+  {
+   "id": "q-99-7",
+   "jenis": "ayat",
+   "tajuk": "Kebaikan seberat zarah",
+   "arab": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+   "ms": "Maka sesiapa mengerjakan kebaikan seberat zarah, dia akan melihatnya.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:7",
+   "rujuk": "99:7",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/7",
+   "tafsir": [
+    {
+     "nama": "as-Sa'di",
+     "ringkas": "Ayat ini merangkumi seluruh kebaikan dan kejahatan. Jika zarah yang paling kecil pun dibalas, maka amalan yang lebih besar lebih utama. Ia mendorong berbuat baik walau sedikit dan menjauhi kejahatan walau kecil.",
+     "pautan": "https://quran.com/99:7/tafsirs/91"
+    }
+   ]
+  },
+  {
+   "id": "q-99-8",
+   "jenis": "ayat",
+   "tajuk": "Kejahatan seberat zarah",
+   "arab": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+   "ms": "Dan sesiapa mengerjakan kejahatan seberat zarah, dia akan melihatnya.",
+   "sumber": "Al-Quran, Az-Zalzalah 99:8",
+   "rujuk": "99:8",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/99/8"
+  },
+  {
+   "id": "q-1-5",
+   "jenis": "ayat",
+   "tajuk": "Ibadah dan pertolongan hanya kepada Allah",
+   "arab": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+   "ms": "Hanya kepada-Mu kami menyembah, dan hanya kepada-Mu kami memohon pertolongan.",
+   "sumber": "Al-Quran, Al-Fatihah 1:5",
+   "rujuk": "1:5",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/1/5"
+  },
+  {
+   "id": "q-2-201",
+   "jenis": "ayat",
+   "tajuk": "Kebaikan dunia dan akhirat",
+   "arab": "رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+   "ms": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, serta peliharalah kami daripada azab neraka.",
+   "sumber": "Al-Quran, Al-Baqarah 2:201",
+   "rujuk": "2:201",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/2/201",
+   "petikan": true
+  },
+  {
+   "id": "q-2-30",
+   "jenis": "ayat",
+   "tajuk": "Manusia sebagai khalifah di bumi",
+   "arab": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً",
+   "ms": "Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat: Sesungguhnya Aku hendak menjadikan seorang khalifah di bumi.",
+   "sumber": "Al-Quran, Al-Baqarah 2:30",
+   "rujuk": "2:30",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/2/30",
+   "petikan": true
+  },
+  {
+   "id": "q-3-160",
+   "jenis": "ayat",
+   "tajuk": "Pertolongan hanya daripada Allah",
+   "arab": "إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+   "ms": "Jika Allah menolong kamu, tiada sesiapa yang dapat mengalahkan kamu; dan jika Dia membiarkan kamu, siapakah yang dapat menolong kamu selepas itu? Kepada Allah jualah hendaknya orang beriman bertawakal.",
+   "sumber": "Al-Quran, Ali 'Imran 3:160",
+   "rujuk": "3:160",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/3/160"
+  },
+  {
+   "id": "q-4-58",
+   "jenis": "ayat",
+   "tajuk": "Perintah menyampaikan amanah",
+   "arab": "إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ",
+   "ms": "Sesungguhnya Allah memerintahkan kamu menyampaikan amanah kepada pemiliknya, dan apabila kamu menghukum antara manusia, hukumlah dengan adil.",
+   "sumber": "Al-Quran, An-Nisa' 4:58",
+   "rujuk": "4:58",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/4/58",
+   "petikan": true
+  },
+  {
+   "id": "q-6-162",
+   "jenis": "ayat",
+   "tajuk": "Hidup dan mati untuk Allah",
+   "arab": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+   "ms": "Katakanlah: Sesungguhnya solatku, ibadahku, hidupku dan matiku hanyalah untuk Allah, Tuhan seluruh alam.",
+   "sumber": "Al-Quran, Al-An'am 6:162",
+   "rujuk": "6:162",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/6/162"
+  },
+  {
+   "id": "q-7-96",
+   "jenis": "ayat",
+   "tajuk": "Keberkatan dibuka kerana iman dan takwa",
+   "arab": "وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَـٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+   "ms": "Kalau sekiranya penduduk negeri-negeri itu beriman dan bertakwa, nescaya Kami bukakan kepada mereka keberkatan dari langit dan bumi.",
+   "sumber": "Al-Quran, Al-A'raf 7:96",
+   "rujuk": "7:96",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/7/96",
+   "petikan": true
+  },
+  {
+   "id": "q-8-10",
+   "jenis": "ayat",
+   "tajuk": "Kemenangan hanya dari sisi Allah",
+   "arab": "وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+   "ms": "Dan kemenangan itu hanyalah dari sisi Allah. Sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana.",
+   "sumber": "Al-Quran, Al-Anfal 8:10",
+   "rujuk": "8:10",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/8/10",
+   "petikan": true
+  },
+  {
+   "id": "q-9-119",
+   "jenis": "ayat",
+   "tajuk": "Jadilah bersama orang yang benar",
+   "arab": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ",
+   "ms": "Wahai orang-orang yang beriman, bertakwalah kepada Allah dan jadilah bersama orang-orang yang benar.",
+   "sumber": "Al-Quran, At-Taubah 9:119",
+   "rujuk": "9:119",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/9/119"
+  },
+  {
+   "id": "q-11-88",
+   "jenis": "ayat",
+   "tajuk": "Taufik hanya dengan Allah",
+   "arab": "وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+   "ms": "Dan tidak ada taufik bagiku melainkan dengan Allah. Kepada-Nya aku bertawakal dan kepada-Nya aku kembali.",
+   "sumber": "Al-Quran, Hud 11:88",
+   "rujuk": "11:88",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/11/88",
+   "tafsir": [
+    {
+     "nama": "as-Sa'di",
+     "ringkas": "Nabi Syu'aib AS menegaskan bahawa segala taufik untuk berbuat baik dan menjauhi kejahatan hanya daripada Allah, bukan kerana kekuatan diri. Dua perkara yang menegakkan keadaan hamba ialah memohon pertolongan Allah dan kembali kepada-Nya.",
+     "pautan": "https://quran.com/11:88/tafsirs/91"
+    }
+   ],
+   "petikan": true
+  },
+  {
+   "id": "q-16-97",
+   "jenis": "ayat",
+   "tajuk": "Kehidupan yang baik untuk amal soleh",
+   "arab": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً",
+   "ms": "Sesiapa yang beramal soleh, lelaki atau perempuan, dalam keadaan beriman, maka Kami akan kurniakan kepadanya kehidupan yang baik.",
+   "sumber": "Al-Quran, An-Nahl 16:97",
+   "rujuk": "16:97",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/16/97",
+   "petikan": true
+  },
+  {
+   "id": "q-16-125",
+   "jenis": "ayat",
+   "tajuk": "Berhikmah dalam menyampaikan kebaikan",
+   "arab": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ",
+   "ms": "Serulah ke jalan Tuhanmu dengan hikmah dan pengajaran yang baik.",
+   "sumber": "Al-Quran, An-Nahl 16:125",
+   "rujuk": "16:125",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/16/125",
+   "petikan": true
+  },
+  {
+   "id": "q-18-39",
+   "jenis": "ayat",
+   "tajuk": "Tiada kekuatan melainkan dengan Allah",
+   "arab": "مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ",
+   "ms": "Inilah yang dikehendaki Allah; tiada kekuatan melainkan dengan Allah.",
+   "sumber": "Al-Quran, Al-Kahfi 18:39",
+   "rujuk": "18:39",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/18/39",
+   "petikan": true
+  },
+  {
+   "id": "q-20-25",
+   "jenis": "ayat",
+   "tajuk": "Doa Nabi Musa AS",
+   "arab": "رَبِّ ٱشْرَحْ لِى صَدْرِى وَيَسِّرْ لِىٓ أَمْرِى",
+   "ms": "Wahai Tuhanku, lapangkanlah dadaku dan mudahkanlah urusanku.",
+   "sumber": "Al-Quran, Taha 20:25-26",
+   "rujuk": "20:25-26",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/20/25-26",
+   "petikan": true
+  },
+  {
+   "id": "q-33-21",
+   "jenis": "ayat",
+   "tajuk": "Rasulullah ﷺ contoh ikutan",
+   "arab": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ",
+   "ms": "Sesungguhnya pada diri Rasulullah itu ada contoh ikutan yang baik bagi kamu.",
+   "sumber": "Al-Quran, Al-Ahzab 33:21",
+   "rujuk": "33:21",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/33/21",
+   "petikan": true
+  },
+  {
+   "id": "q-47-24",
+   "jenis": "ayat",
+   "tajuk": "Perintah mentadabbur Al-Quran",
+   "arab": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+   "ms": "Tidakkah mereka mahu memikirkan isi Al-Quran, atau adakah hati mereka sudah terkunci?",
+   "sumber": "Al-Quran, Muhammad 47:24",
+   "rujuk": "47:24",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/47/24"
+  },
+  {
+   "id": "q-49-13",
+   "jenis": "ayat",
+   "tajuk": "Kemuliaan di sisi Allah dengan takwa",
+   "arab": "إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ",
+   "ms": "Sesungguhnya yang paling mulia antara kamu di sisi Allah ialah yang paling bertakwa antara kamu.",
+   "sumber": "Al-Quran, Al-Hujurat 49:13",
+   "rujuk": "49:13",
+   "status": "Petikan teks kanun",
+   "pautan": "https://quran.com/49/13",
+   "petikan": true
+  },
+  {
+   "id": "q-51-56",
+   "jenis": "ayat",
+   "tajuk": "Tujuan penciptaan: beribadah kepada Allah",
+   "arab": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+   "ms": "Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku.",
+   "sumber": "Al-Quran, Az-Zariyat 51:56",
+   "rujuk": "51:56",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/51/56"
+  },
+  {
+   "id": "q-68-4",
+   "jenis": "ayat",
+   "tajuk": "Akhlak yang agung",
+   "arab": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+   "ms": "Dan sesungguhnya engkau benar-benar berada di atas akhlak yang agung.",
+   "sumber": "Al-Quran, Al-Qalam 68:4",
+   "rujuk": "68:4",
+   "status": "Teks kanun",
+   "pautan": "https://quran.com/68/4"
+  },
+  {
+   "id": "h-bukhari-6464",
+   "jenis": "hadis",
+   "tajuk": "Amalan yang berterusan walaupun sedikit",
+   "arab": "سَدِّدُوا وَقَارِبُوا، وَاعْلَمُوا أَنْ لَنْ يُدْخِلَ أَحَدَكُمْ عَمَلُهُ الْجَنَّةَ، وَأَنَّ أَحَبَّ الْأَعْمَالِ أَدْوَمُهَا إِلَى اللَّهِ، وَإِنْ قَلَّ",
+   "ms": "Beramallah dengan betul dan sederhana. Ketahuilah, amalan seseorang tidak akan memasukkan dirinya ke syurga, dan amalan yang paling disukai Allah ialah yang berterusan walaupun sedikit.",
+   "sumber": "Sahih al-Bukhari 6464",
+   "status": "Sahih",
+   "pautan": "https://sunnah.com/bukhari:6464",
+   "nota": "Disokong oleh Sahih Muslim 783a: amalan Nabi ﷺ sentiasa berterusan."
+  },
+  {
+   "id": "h-muslim-783a",
+   "jenis": "hadis",
+   "tajuk": "Amalan Nabi ﷺ sentiasa berterusan",
+   "arab": "كَانَ عَمَلُهُ دِيمَةً",
+   "ms": "Amalan baginda sentiasa berterusan.",
+   "sumber": "Sahih Muslim 783a",
+   "status": "Sahih",
+   "pautan": "https://sunnah.com/muslim:783a",
+   "nota": "Riwayat 'Aisyah RA tentang amalan Rasulullah ﷺ."
+  },
+  {
+   "id": "h-muslim-2626",
+   "jenis": "hadis",
+   "tajuk": "Jangan remehkan kebaikan kecil",
+   "arab": "لَا تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ",
+   "ms": "Janganlah engkau memandang remeh sesuatu kebaikan, walaupun sekadar bertemu saudaramu dengan wajah yang manis.",
+   "sumber": "Sahih Muslim 2626",
+   "status": "Sahih",
+   "pautan": "https://sunnah.com/muslim:2626"
+  },
+  {
+   "id": "h-muslim-746a",
+   "jenis": "hadis",
+   "tajuk": "Akhlak Rasulullah ﷺ ialah Al-Quran",
+   "arab": "فَإِنَّ خُلُقَ نَبِيِّ اللَّهِ ﷺ كَانَ الْقُرْآنَ",
+   "ms": "Sesungguhnya akhlak Nabi Allah ﷺ ialah Al-Quran.",
+   "sumber": "Sahih Muslim 746a",
+   "status": "Sahih",
+   "pautan": "https://sunnah.com/muslim:746a",
+   "nota": "Sabda Nabi ﷺ yang diriwayatkan daripada 'Aisyah RA: baginda menghidupkan Al-Quran dalam akhlaknya."
+  },
+  {
+   "id": "h-bukhari-893",
+   "jenis": "hadis",
+   "tajuk": "Setiap kamu pemimpin dan bertanggungjawab",
+   "arab": "كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ",
+   "ms": "Setiap kamu ialah pemimpin, dan setiap kamu akan ditanya tentang apa yang dipimpinnya.",
+   "sumber": "Sahih al-Bukhari 893",
+   "status": "Sahih",
+   "pautan": "https://sunnah.com/bukhari:893",
+   "nota": "Asas tanggungjawab: murid bertanggungjawab atas diri, amanah kelas dan adabnya."
+  },
+  {
+   "id": "h-tirmidhi-2516",
+   "jenis": "hadis",
+   "tajuk": "Jika meminta, mintalah kepada Allah",
+   "arab": "إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ",
+   "ms": "Apabila engkau meminta, mintalah kepada Allah; dan apabila engkau memohon pertolongan, mohonlah pertolongan kepada Allah.",
+   "sumber": "Jami' at-Tirmidhi 2516",
+   "status": "Hasan (Darussalam)",
+   "pautan": "https://sunnah.com/tirmidhi:2516",
+   "nota": "Daripada Ibn 'Abbas RA. Menegaskan bahawa doa dan pertolongan hanya diminta daripada Allah."
+  },
+  {
+   "id": "h-tirmidhi-3353",
+   "jenis": "hadis",
+   "tajuk": "Bumi menjadi saksi",
+   "arab": "فَإِنَّ أَخْبَارَهَا أَنْ تَشْهَدَ عَلَى كُلِّ عَبْدٍ أَوْ أَمَةٍ بِمَا عَمِلَ عَلَى ظَهْرِهَا",
+   "ms": "Sesungguhnya khabar bumi ialah ia menjadi saksi terhadap setiap hamba lelaki atau perempuan tentang apa yang dilakukan di atasnya.",
+   "sumber": "Jami' at-Tirmidhi 3353",
+   "status": "Hasan sahih (at-Tirmizi); daif (Darussalam/al-Albani)",
+   "pautan": "https://sunnah.com/tirmidhi:3353",
+   "nota": "At-Tirmizi menilai hasan sahih, tetapi Darussalam dan al-Albani menilai sanadnya daif. Pakai sebagai sokongan, bukan dalil utama. Makna bumi menjadi saksi sudah cukup daripada ayat 99:4-5."
+  },
+  {
+   "id": "t-ibn-kathir-99",
+   "jenis": "tafsir",
+   "tajuk": "Ringkasan Ibn Kathir: Az-Zalzalah",
+   "arab": "",
+   "ms": "Bumi akan menceritakan apa yang berlaku di atasnya pada Hari Kiamat dengan perintah Allah. Manusia keluar berpuak-puak dan melihat amalan sendiri. Kebaikan dan kejahatan seberat zarah tetap dilihat dan dibalas.",
+   "sumber": "Tafsir Ibn Kathir (ringkasan)",
+   "status": "Rujukan tafsir",
+   "pautan": "https://quran.com/99:1/tafsirs/169"
+  },
+  {
+   "id": "t-saadi-99-1-3",
+   "jenis": "tafsir",
+   "tajuk": "Ringkasan as-Sa'di: Az-Zalzalah 1-3",
+   "arab": "",
+   "ms": "Allah memberitahu apa yang berlaku pada Hari Kiamat: bumi bergoncang dan bergegar sehingga bangunan serta gunung runtuh, lalu bumi mengeluarkan apa yang tersimpan di dalamnya, iaitu orang mati dan harta. Manusia yang melihat kejadian besar itu bertanya: apa yang berlaku kepada bumi?",
+   "sumber": "Taysir al-Karim ar-Rahman (as-Sa'di), ringkasan",
+   "status": "Rujukan tafsir",
+   "pautan": "https://quran.com/99:1/tafsirs/91"
+  },
+  {
+   "id": "t-saadi-99",
+   "jenis": "tafsir",
+   "tajuk": "Ringkasan as-Sa'di: Az-Zalzalah 7-8",
+   "arab": "",
+   "ms": "Ayat 7-8 merangkumi seluruh kebaikan dan kejahatan. Jika zarah yang paling kecil dibalas, apatah lagi yang lebih besar. Ia mendorong berbuat baik walau sedikit dan menjauhi kejahatan walau kecil.",
+   "sumber": "Taysir al-Karim ar-Rahman (as-Sa'di), ringkasan",
+   "status": "Rujukan tafsir",
+   "pautan": "https://quran.com/99:7/tafsirs/91"
+  },
+  {
+   "id": "t-saadi-11-88",
+   "jenis": "tafsir",
+   "tajuk": "Ringkasan as-Sa'di: Hud 11:88",
+   "arab": "",
+   "ms": "Nabi Syu'aib AS menegaskan bahawa segala taufik untuk berbuat baik dan menjauhi kejahatan hanya daripada Allah, bukan kerana kekuatan diri. Dua perkara yang menegakkan keadaan hamba ialah memohon pertolongan Allah dan kembali kepada-Nya.",
+   "sumber": "Taysir al-Karim ar-Rahman (as-Sa'di), ringkasan",
+   "status": "Rujukan tafsir",
+   "pautan": "https://quran.com/11:88/tafsirs/91"
+  },
+  {
+   "id": "n-aqidah",
+   "jenis": "nota",
+   "tajuk": "Manhaj Ahlus Sunnah wal Jamaah",
+   "arab": "",
+   "ms": "Kandungan majlis ini berpandukan Al-Quran, Sunnah yang sabit dan kefahaman para ulama Ahlus Sunnah wal Jamaah. Tujuan penyampaian ialah mengajak murid mengagungkan kalam Allah, mentaati Rasulullah ﷺ dan beramal soleh ikhlas kerana Allah, bukan untuk mencari pujian manusia.",
+   "sumber": "Nota manhaj",
+   "status": "Panduan kandungan",
+   "pautan": ""
+  },
+  {
+   "id": "n-doa-khatam",
+   "jenis": "nota",
+   "tajuk": "Kedudukan doa khatam",
+   "arab": "",
+   "ms": "Doa khatam yang dipaparkan ialah doa yang masyhur dibaca selepas khatam Al-Quran. Ia dibaca sebagai doa dan permohonan, bukan sebagai hadis marfu' yang sabit daripada Nabi ﷺ. Urutan bacaan Ad-Dhuha hingga An-Nas, kemudian Al-Fatihah dan Al-Baqarah 1-5, ialah amalan majlis khatam yang biasa di Malaysia; ia bukan ibadah wajib. Yang dituntut ialah membaca dengan adab, memahami makna dan berdoa dengan ikhlas.",
+   "sumber": "Nota amalan dan adab",
+   "status": "Panduan kandungan",
+   "pautan": ""
+  }
+ ]
+}

@@ -3,6 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Slaid tadabbur Surah Az-Zalzalah dan tazkirah untuk Majlis Khatam Al-Quran Perdana Murid Tahun 6, KAFA Integrasi As-Syariff, Telok Datok.">
+<meta name="theme-color" content="#06241d">
+<meta name="color-scheme" content="dark">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tadabbur Az-Zalzalah · Majlis Khatam 2026">
+<meta property="og:description" content="Slaid tadabbur, tazkirah dan dokumentasi Majlis Khatam Al-Quran Perdana Murid Tahun 6, Peringkat Negeri Selangor Kali Ke-11.">
+<meta property="og:image" content="logo-kafa-512.png">
+<meta name="twitter:card" content="summary">
+<link rel="icon" type="image/png" href="favicon-kafa.png">
+<link rel="apple-touch-icon" href="logo-kafa-180.png">
 <title>Tadabbur Az-Zalzalah · Majlis Khatam</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,15 +22,25 @@
 <body>
 <div class="bg" aria-hidden="true"></div>
 <div class="progress" aria-hidden="true"><i></i></div>
-<header class="hud"><div class="hud-l"><button id="menu" class="btn" aria-label="Buka menu sesi">☰</button><span id="badge" class="chip"></span></div><span id="clock" class="chip"></span></header>
+<header class="hud"><div class="hud-l"><button id="menu" class="btn" aria-label="Buka menu sesi" aria-controls="side" aria-expanded="false">☰</button><span id="badge" class="chip"></span></div><div class="hud-r"><span id="clock" class="chip"></span><button id="info" class="btn" aria-label="Dokumentasi dan muat turun" aria-haspopup="dialog" aria-controls="dokumen">ⓘ</button></div></header>
 <aside id="side" class="side" aria-label="Senarai sesi"></aside>
 <div class="scrim"></div>
-<main id="deck" aria-live="polite"><p class="boot">Memuatkan slaid…</p></main>
+<main id="deck" aria-live="polite"><p class="boot">Memuatkan slaid…</p><noscript><p class="boot">Laman ini memerlukan JavaScript. Sila hidupkan JavaScript atau gunakan pelayar moden.</p></noscript></main>
 <nav class="ctrl" aria-label="Navigasi slaid">
   <button class="btn" data-act="prev" aria-label="Slaid sebelum">‹</button>
   <div id="dots" role="tablist"></div>
   <button class="btn" data-act="next" aria-label="Slaid seterusnya">›</button>
 </nav>
+<dialog id="dokumen" class="doc-dialog" aria-labelledby="doc-tajuk">
+  <div class="doc-dialog-h"><span class="doc-kicker">Dokumentasi program</span><button class="btn-sm" data-doc="close" aria-label="Tutup dokumentasi">×</button></div>
+  <h2 id="doc-tajuk">Dokumentasi</h2>
+  <p id="doc-sub" class="sub"></p>
+  <dl id="doc-fakta" class="doc-fakta"></dl>
+  <div id="doc-objektif" class="doc-objektif"></div>
+  <div id="doc-actions" class="doc-actions"></div>
+  <p id="doc-nota" class="doc-nota"></p>
+  <a class="doc-page" id="doc-page" href="majlis-khatam-2026.html">Buka halaman dokumentasi penuh →</a>
+</dialog>
 <script type="module" src="js/main.js"></script>
 </body>
 </html>
